@@ -1970,6 +1970,7 @@ namespace Amibopedia.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Amibopedia.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::Amibopedia.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::Amibopedia.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::Amibopedia.Droid.Resource.Style.collectionViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::Amibopedia.Droid.Resource.Styleable.ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::Amibopedia.Droid.Resource.Styleable.ActionBar_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::Amibopedia.Droid.Resource.Styleable.ActionBar_backgroundSplit;
@@ -6522,6 +6523,9 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0008
 			public const int chronometer = 2131492872;
 			
+			// aapt resource value: 0x7F010224
+			public const int collectionViewStyle = 2130772516;
+			
 			// aapt resource value: 0x7F0C001E
 			public const int container = 2131492894;
 			
@@ -8318,6 +8322,9 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7F1600C5
 			public const int CardView_Light = 2132148421;
+			
+			// aapt resource value: 0x7F050516
+			public const int collectionViewStyle = 2131035414;
 			
 			// aapt resource value: 0x7F050002
 			public const int MainTheme = 2131034114;

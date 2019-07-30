@@ -1,0 +1,14 @@
+C:\New folder\visual\Amibopedia\Amibopedia\bin\Debug\netstandard2.0\Amibopedia.deps.json
+C:\New folder\visual\Amibopedia\Amibopedia\bin\Debug\netstandard2.0\Amibopedia.dll
+C:\New folder\visual\Amibopedia\Amibopedia\bin\Debug\netstandard2.0\ref\Amibopedia.dll
+C:\New folder\visual\Amibopedia\Amibopedia\bin\Debug\netstandard2.0\Amibopedia.pdb
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Amibopedia.csproj.CoreCompileInputs.cache
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Amibopedia.AssemblyInfoInputs.cache
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Amibopedia.AssemblyInfo.cs
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Amibopedia.dll
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\ref\Amibopedia.dll
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Amibopedia.pdb
+C:\New folder\visual\Amibopedia\Amibopedia\obj\Debug\netstandard2.0\Amibopedia.csprojAssemblyReference.cache
