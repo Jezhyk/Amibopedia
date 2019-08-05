@@ -393,6 +393,417 @@ containing a value of this type.
 </table>
          */
         public static int autoSizeTextType=0x7f010052;
+        /**         border color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteBorderColor=0x7f0101ef;
+        /** clear button color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteClearButtonColor=0x7f010204;
+        /** specifies the property path with which filtering is done on business objects
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDisplayMemberPath=0x7f0101f8;
+        /** drop down background color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownBackgroundColor=0x7f0101fd;
+        /** determines the drop down corner radius of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownCornerRadius=0x7f01020d;
+        /** determines the drop down footer view height of autocomplete
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownFooterViewHeight=0x7f01020f;
+        /** determines the drop down header view height of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownHeaderViewHeight=0x7f01020e;
+        /** determines the height of the drop down of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownItemHeight=0x7f01020c;
+        /** determine whether drop down has to be shown or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownOpen=0x7f0101f3;
+        /** drop down text color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownTextColor=0x7f0101fe;
+        /** determines the size of the drop down text of autocomplete
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteDropDownTextSize=0x7f010200;
+        /** determine whether selection indicator has to be shown or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteEnableSelectionIndicator=0x7f0101f9;
+        /** Highlighted text color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteHighlightedTextColor=0x7f01020a;
+        /** determine whether the letters containing diacritics has to be shown or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteIgnoreDiacritic=0x7f010205;
+        /** determines the image member path of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteImageMemberPath=0x7f010201;
+        /** determine the indicator text of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteIndicatorText=0x7f0101fa;
+        /** indicator text color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteIndicatorTextColor=0x7f0101fb;
+        /** determines the size of the Indicator text of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteIndicatorTextSize=0x7f01020b;
+        /** determine whether the autocomplete has to be focused or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteIsFocused=0x7f010206;
+        /** determine whether the selected items has to be shown in the drop down or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteIsSelectedItemsVisibleInDropDown=0x7f010209;
+        /** determines the load more text of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteLoadMoreText=0x7f010207;
+        /** determines the maximum height of the drop down of autocomplete
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteMaximumDropDownHeight=0x7f0101ff;
+        /** determine the maximum suggestion of autocomplete
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteMaximumSuggestion=0x7f0101f4;
+        /** matches can be filtered and displayed after a few character entries
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteMinimumPrefixCharacters=0x7f0101fc;
+        /** determines the mode for autocomplete
+         <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>suggest</code></td><td>0</td><td></td></tr>
+<tr><td><code>append</code></td><td>1</td><td></td></tr>
+<tr><td><code>suggestAppend</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static int autocompleteMode=0x7f010214;
+        /** determines the multi select mode for autocomplete
+         <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>token</code></td><td>1</td><td></td></tr>
+<tr><td><code>delimiter</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static int autocompleteMultiSelectMode=0x7f010213;
+        /** determines the no results found text of autocomplete 
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteNoResultsFoundText=0x7f010208;
+        /** determine the popup delay in autocomplete
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompletePopUpDelay=0x7f0101f7;
+        /** determine the index of the selected item in autocomplete
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteSelectedIndex=0x7f0101f5;
+        /**         show the border of autocomplete
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteShowBorder=0x7f0101eb;
+        /**         determine whether clear button has to be shown or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteShowClearButton=0x7f0101ec;
+        /** determine whether the drop down footer view has to be shown or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteShowDropDownFooterView=0x7f010203;
+        /** determine whether the drop down header view has to be shown or not
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteShowDropDownHeaderView=0x7f010202;
+        /** determine whether suggestion has to be shown or not when autocomplete is on focus
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteShowSuggestionsOnFocus=0x7f0101f6;
+        /** determines the suggestion box placement for autocomplete
+         <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>bottom</code></td><td>0</td><td></td></tr>
+<tr><td><code>top</code></td><td>1</td><td></td></tr>
+<tr><td><code>none</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static int autocompleteSuggestionBoxPlacement=0x7f010211;
+        /** determines the suggestion mode for autocomplete
+         <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>startsWith</code></td><td>0</td><td></td></tr>
+<tr><td><code>startsWithCaseSensitive</code></td><td>1</td><td></td></tr>
+<tr><td><code>contains</code></td><td>2</td><td></td></tr>
+<tr><td><code>containsWithCaseSensitive</code></td><td>3</td><td></td></tr>
+<tr><td><code>endsWith</code></td><td>4</td><td></td></tr>
+<tr><td><code>endsWithCaseSensitive</code></td><td>5</td><td></td></tr>
+<tr><td><code>equals</code></td><td>6</td><td></td></tr>
+<tr><td><code>equalsWithCaseSensitive</code></td><td>7</td><td></td></tr>
+<tr><td><code>custom</code></td><td>8</td><td></td></tr>
+</table>
+         */
+        public static int autocompleteSuggestionMode=0x7f010210;
+        /**         text value of autocomplete
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteText=0x7f0101f1;
+        /**         text colot of autoocmplete text
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteTextColor=0x7f0101ee;
+        /**         size of autocomplete text
+         <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteTextSize=0x7f0101f2;
+        /** determines the token wrap mode for autocomplete
+         <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>wrap</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static int autocompleteTokensWrapMode=0x7f010212;
+        /**         hint text of autocomplete
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteWatermark=0x7f0101f0;
+        /**         hint color of autocomplete
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static int autocompleteWatermarkColor=0x7f0101ed;
         /**  Specifies a background drawable for the action bar. 
          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
@@ -4613,13 +5024,13 @@ containing a value of this type.
         public static int abc_textfield_search_material=0x7f020052;
         public static int abc_vector_test=0x7f020053;
         public static int avd_hide_password=0x7f020054;
-        public static int avd_hide_password_1=0x7f020135;
-        public static int avd_hide_password_2=0x7f020136;
-        public static int avd_hide_password_3=0x7f020137;
+        public static int avd_hide_password_1=0x7f02013a;
+        public static int avd_hide_password_2=0x7f02013b;
+        public static int avd_hide_password_3=0x7f02013c;
         public static int avd_show_password=0x7f020055;
-        public static int avd_show_password_1=0x7f020138;
-        public static int avd_show_password_2=0x7f020139;
-        public static int avd_show_password_3=0x7f02013a;
+        public static int avd_show_password_1=0x7f02013d;
+        public static int avd_show_password_2=0x7f02013e;
+        public static int avd_show_password_3=0x7f02013f;
         public static int design_bottom_navigation_item_background=0x7f020056;
         public static int design_fab_background=0x7f020057;
         public static int design_ic_visibility=0x7f020058;
@@ -4806,286 +5217,305 @@ containing a value of this type.
         public static int ic_vol_type_speaker_light=0x7f02010d;
         public static int ic_vol_type_tv_dark=0x7f02010e;
         public static int ic_vol_type_tv_light=0x7f02010f;
-        public static int mr_button_connected_dark=0x7f020110;
-        public static int mr_button_connected_light=0x7f020111;
-        public static int mr_button_connecting_dark=0x7f020112;
-        public static int mr_button_connecting_light=0x7f020113;
-        public static int mr_button_dark=0x7f020114;
-        public static int mr_button_light=0x7f020115;
-        public static int mr_dialog_close_dark=0x7f020116;
-        public static int mr_dialog_close_light=0x7f020117;
-        public static int mr_dialog_material_background_dark=0x7f020118;
-        public static int mr_dialog_material_background_light=0x7f020119;
-        public static int mr_group_collapse=0x7f02011a;
-        public static int mr_group_expand=0x7f02011b;
-        public static int mr_media_pause_dark=0x7f02011c;
-        public static int mr_media_pause_light=0x7f02011d;
-        public static int mr_media_play_dark=0x7f02011e;
-        public static int mr_media_play_light=0x7f02011f;
-        public static int mr_media_stop_dark=0x7f020120;
-        public static int mr_media_stop_light=0x7f020121;
-        public static int mr_vol_type_audiotrack_dark=0x7f020122;
-        public static int mr_vol_type_audiotrack_light=0x7f020123;
-        public static int mtrl_snackbar_background=0x7f020124;
-        public static int mtrl_tabs_default_indicator=0x7f020125;
-        public static int navigation_empty_icon=0x7f020126;
-        public static int notification_action_background=0x7f020127;
-        public static int notification_bg=0x7f020128;
-        public static int notification_bg_low=0x7f020129;
-        public static int notification_bg_low_normal=0x7f02012a;
-        public static int notification_bg_low_pressed=0x7f02012b;
-        public static int notification_bg_normal=0x7f02012c;
-        public static int notification_bg_normal_pressed=0x7f02012d;
-        public static int notification_icon_background=0x7f02012e;
-        public static int notification_template_icon_bg=0x7f020133;
-        public static int notification_template_icon_low_bg=0x7f020134;
-        public static int notification_tile_bg=0x7f02012f;
-        public static int notify_panel_notification_icon_bg=0x7f020130;
-        public static int tooltip_frame_dark=0x7f020131;
-        public static int tooltip_frame_light=0x7f020132;
+        public static int input_layout_drop_down_icon=0x7f020110;
+        public static int inputlayout_togglecollapseicon=0x7f020111;
+        public static int inputlayout_togglevisibleicon=0x7f020112;
+        public static int mr_button_connected_dark=0x7f020113;
+        public static int mr_button_connected_light=0x7f020114;
+        public static int mr_button_connecting_dark=0x7f020115;
+        public static int mr_button_connecting_light=0x7f020116;
+        public static int mr_button_dark=0x7f020117;
+        public static int mr_button_light=0x7f020118;
+        public static int mr_dialog_close_dark=0x7f020119;
+        public static int mr_dialog_close_light=0x7f02011a;
+        public static int mr_dialog_material_background_dark=0x7f02011b;
+        public static int mr_dialog_material_background_light=0x7f02011c;
+        public static int mr_group_collapse=0x7f02011d;
+        public static int mr_group_expand=0x7f02011e;
+        public static int mr_media_pause_dark=0x7f02011f;
+        public static int mr_media_pause_light=0x7f020120;
+        public static int mr_media_play_dark=0x7f020121;
+        public static int mr_media_play_light=0x7f020122;
+        public static int mr_media_stop_dark=0x7f020123;
+        public static int mr_media_stop_light=0x7f020124;
+        public static int mr_vol_type_audiotrack_dark=0x7f020125;
+        public static int mr_vol_type_audiotrack_light=0x7f020126;
+        public static int mtrl_snackbar_background=0x7f020127;
+        public static int mtrl_tabs_default_indicator=0x7f020128;
+        public static int navigation_empty_icon=0x7f020129;
+        public static int notification_action_background=0x7f02012a;
+        public static int notification_bg=0x7f02012b;
+        public static int notification_bg_low=0x7f02012c;
+        public static int notification_bg_low_normal=0x7f02012d;
+        public static int notification_bg_low_pressed=0x7f02012e;
+        public static int notification_bg_normal=0x7f02012f;
+        public static int notification_bg_normal_pressed=0x7f020130;
+        public static int notification_icon_background=0x7f020131;
+        public static int notification_template_icon_bg=0x7f020138;
+        public static int notification_template_icon_low_bg=0x7f020139;
+        public static int notification_tile_bg=0x7f020132;
+        public static int notify_panel_notification_icon_bg=0x7f020133;
+        public static int sfclosebutton=0x7f020134;
+        public static int styleinfo=0x7f020135;
+        public static int tooltip_frame_dark=0x7f020136;
+        public static int tooltip_frame_light=0x7f020137;
     }
     public static final class id {
         public static int ALT=0x7f0b0039;
         public static int CTRL=0x7f0b003a;
         public static int FUNCTION=0x7f0b003b;
+        public static int Itemname=0x7f0b00b2;
         public static int META=0x7f0b003c;
         public static int SHIFT=0x7f0b003d;
         public static int SYM=0x7f0b003e;
-        public static int action0=0x7f0b00e4;
-        public static int action_bar=0x7f0b008d;
+        public static int action0=0x7f0b00f3;
+        public static int action_bar=0x7f0b009b;
         public static int action_bar_activity_content=0x7f0b0001;
-        public static int action_bar_container=0x7f0b008c;
-        public static int action_bar_root=0x7f0b0088;
+        public static int action_bar_container=0x7f0b009a;
+        public static int action_bar_root=0x7f0b0096;
         public static int action_bar_spinner=0x7f0b0002;
-        public static int action_bar_subtitle=0x7f0b006a;
-        public static int action_bar_title=0x7f0b0069;
-        public static int action_container=0x7f0b00e1;
-        public static int action_context_bar=0x7f0b008e;
-        public static int action_divider=0x7f0b00e8;
-        public static int action_image=0x7f0b00e2;
+        public static int action_bar_subtitle=0x7f0b0079;
+        public static int action_bar_title=0x7f0b0078;
+        public static int action_container=0x7f0b00f0;
+        public static int action_context_bar=0x7f0b009c;
+        public static int action_divider=0x7f0b00f7;
+        public static int action_image=0x7f0b00f1;
         public static int action_menu_divider=0x7f0b0003;
         public static int action_menu_presenter=0x7f0b0004;
-        public static int action_mode_bar=0x7f0b008a;
-        public static int action_mode_bar_stub=0x7f0b0089;
-        public static int action_mode_close_button=0x7f0b006b;
-        public static int action_text=0x7f0b00e3;
-        public static int actions=0x7f0b00f1;
-        public static int activity_chooser_view_content=0x7f0b006c;
+        public static int action_mode_bar=0x7f0b0098;
+        public static int action_mode_bar_stub=0x7f0b0097;
+        public static int action_mode_close_button=0x7f0b007a;
+        public static int action_text=0x7f0b00f2;
+        public static int actions=0x7f0b0100;
+        public static int activity_chooser_view_content=0x7f0b007b;
         public static int add=0x7f0b002e;
-        public static int alertTitle=0x7f0b007f;
+        public static int alertTitle=0x7f0b008d;
         public static int all=0x7f0b0064;
         public static int always=0x7f0b003f;
+        public static int append=0x7f0b0075;
         public static int async=0x7f0b0065;
         public static int auto=0x7f0b004d;
         public static int beginning=0x7f0b0036;
         public static int blocking=0x7f0b0066;
         public static int bottom=0x7f0b0044;
-        public static int bottomtab_navarea=0x7f0b009d;
-        public static int bottomtab_tabbar=0x7f0b009e;
-        public static int browser_actions_header_text=0x7f0b00a0;
-        public static int browser_actions_menu_item_icon=0x7f0b00a2;
-        public static int browser_actions_menu_item_text=0x7f0b00a3;
-        public static int browser_actions_menu_items=0x7f0b00a1;
-        public static int browser_actions_menu_view=0x7f0b009f;
-        public static int buttonPanel=0x7f0b0072;
-        public static int cancel_action=0x7f0b00e5;
+        public static int bottomtab_navarea=0x7f0b00ab;
+        public static int bottomtab_tabbar=0x7f0b00ac;
+        public static int browser_actions_header_text=0x7f0b00ae;
+        public static int browser_actions_menu_item_icon=0x7f0b00b0;
+        public static int browser_actions_menu_item_text=0x7f0b00b1;
+        public static int browser_actions_menu_items=0x7f0b00af;
+        public static int browser_actions_menu_view=0x7f0b00ad;
+        public static int buttonPanel=0x7f0b0081;
+        public static int cancel_action=0x7f0b00f4;
         public static int center=0x7f0b004c;
         public static int center_horizontal=0x7f0b0051;
         public static int center_vertical=0x7f0b0052;
-        public static int checkbox=0x7f0b0086;
-        public static int chronometer=0x7f0b00ed;
+        public static int checkbox=0x7f0b0094;
+        public static int chronometer=0x7f0b00fc;
         public static int clip_horizontal=0x7f0b0061;
         public static int clip_vertical=0x7f0b0062;
         public static int collapseActionView=0x7f0b0040;
-        public static int container=0x7f0b00a6;
-        public static int content=0x7f0b0082;
-        public static int contentPanel=0x7f0b0075;
-        public static int coordinator=0x7f0b00a7;
-        public static int custom=0x7f0b007c;
-        public static int customPanel=0x7f0b007b;
-        public static int decor_content_parent=0x7f0b008b;
-        public static int default_activity_button=0x7f0b006f;
-        public static int design_bottom_sheet=0x7f0b00a9;
-        public static int design_menu_item_action_area=0x7f0b00ae;
-        public static int design_menu_item_action_area_stub=0x7f0b00ad;
-        public static int design_menu_item_text=0x7f0b00ac;
-        public static int design_navigation_view=0x7f0b00ab;
+        public static int container=0x7f0b00b5;
+        public static int contains=0x7f0b0069;
+        public static int containsWithCaseSensitive=0x7f0b006a;
+        public static int content=0x7f0b0090;
+        public static int contentPanel=0x7f0b0084;
+        public static int coordinator=0x7f0b00b6;
+        public static int custom=0x7f0b006b;
+        public static int customPanel=0x7f0b008a;
+        public static int decor_content_parent=0x7f0b0099;
+        public static int default_activity_button=0x7f0b007e;
+        public static int delimiter=0x7f0b0073;
+        public static int design_bottom_sheet=0x7f0b00b8;
+        public static int design_menu_item_action_area=0x7f0b00bd;
+        public static int design_menu_item_action_area_stub=0x7f0b00bc;
+        public static int design_menu_item_text=0x7f0b00bb;
+        public static int design_navigation_view=0x7f0b00ba;
         public static int disableHome=0x7f0b0027;
-        public static int edit_query=0x7f0b008f;
+        public static int edit_query=0x7f0b009d;
         public static int end=0x7f0b0037;
-        public static int end_padder=0x7f0b00f3;
+        public static int end_padder=0x7f0b0102;
+        public static int endsWith=0x7f0b006c;
+        public static int endsWithCaseSensitive=0x7f0b006d;
         public static int enterAlways=0x7f0b0046;
         public static int enterAlwaysCollapsed=0x7f0b0047;
+        public static int equals=0x7f0b006e;
+        public static int equalsWithCaseSensitive=0x7f0b006f;
         public static int exitUntilCollapsed=0x7f0b0048;
-        public static int expand_activities_button=0x7f0b006d;
-        public static int expanded_menu=0x7f0b0085;
+        public static int expand_activities_button=0x7f0b007c;
+        public static int expanded_menu=0x7f0b0093;
         public static int fill=0x7f0b005e;
         public static int fill_horizontal=0x7f0b0063;
         public static int fill_vertical=0x7f0b0053;
         public static int filled=0x7f0b005f;
         public static int fixed=0x7f0b005c;
-        public static int flyoutcontent_appbar=0x7f0b00b0;
-        public static int flyoutcontent_recycler=0x7f0b00b1;
+        public static int flyoutcontent_appbar=0x7f0b00bf;
+        public static int flyoutcontent_recycler=0x7f0b00c0;
         public static int forever=0x7f0b0067;
         public static int ghost_view=0x7f0b000a;
-        public static int group_divider=0x7f0b0081;
+        public static int group_divider=0x7f0b008f;
         public static int home=0x7f0b0005;
         public static int homeAsUp=0x7f0b0028;
-        public static int icon=0x7f0b0071;
-        public static int icon_group=0x7f0b00f2;
+        public static int icon=0x7f0b0080;
+        public static int icon_group=0x7f0b0101;
         public static int ifRoom=0x7f0b0041;
-        public static int image=0x7f0b006e;
-        public static int info=0x7f0b00ee;
+        public static int image=0x7f0b007d;
+        public static int info=0x7f0b00fd;
         public static int italic=0x7f0b0068;
         public static int item_touch_helper_previous_elevation=0x7f0b0000;
         public static int labeled=0x7f0b004e;
-        public static int largeLabel=0x7f0b00a5;
+        public static int largeLabel=0x7f0b00b4;
         public static int left=0x7f0b0054;
         public static int line1=0x7f0b001c;
         public static int line3=0x7f0b001d;
         public static int listMode=0x7f0b0024;
-        public static int list_item=0x7f0b0070;
-        public static int main_appbar=0x7f0b00f4;
-        public static int main_scrollview=0x7f0b00f7;
-        public static int main_tablayout=0x7f0b00f6;
-        public static int main_toolbar=0x7f0b00f5;
-        public static int masked=0x7f0b00fe;
-        public static int media_actions=0x7f0b00e7;
-        public static int message=0x7f0b009c;
+        public static int list_item=0x7f0b007f;
+        public static int main_appbar=0x7f0b0103;
+        public static int main_scrollview=0x7f0b0106;
+        public static int main_tablayout=0x7f0b0105;
+        public static int main_toolbar=0x7f0b0104;
+        public static int masked=0x7f0b010d;
+        public static int media_actions=0x7f0b00f6;
+        public static int message=0x7f0b00aa;
         public static int middle=0x7f0b0038;
         public static int mini=0x7f0b0059;
-        public static int mr_art=0x7f0b00ce;
-        public static int mr_cast_checkbox=0x7f0b00bf;
-        public static int mr_cast_close_button=0x7f0b00b8;
-        public static int mr_cast_group_icon=0x7f0b00b3;
-        public static int mr_cast_group_name=0x7f0b00b4;
-        public static int mr_cast_list=0x7f0b00b2;
-        public static int mr_cast_meta=0x7f0b00b7;
-        public static int mr_cast_meta_art=0x7f0b00b9;
-        public static int mr_cast_meta_subtitle=0x7f0b00bb;
-        public static int mr_cast_meta_title=0x7f0b00ba;
-        public static int mr_cast_route_icon=0x7f0b00bd;
-        public static int mr_cast_route_name=0x7f0b00be;
-        public static int mr_cast_stop_button=0x7f0b00bc;
-        public static int mr_cast_volume_layout=0x7f0b00c0;
-        public static int mr_cast_volume_slider=0x7f0b00c1;
-        public static int mr_chooser_list=0x7f0b00c3;
-        public static int mr_chooser_route_desc=0x7f0b00c6;
-        public static int mr_chooser_route_icon=0x7f0b00c4;
-        public static int mr_chooser_route_name=0x7f0b00c5;
-        public static int mr_chooser_title=0x7f0b00c2;
-        public static int mr_close=0x7f0b00cb;
-        public static int mr_control_divider=0x7f0b00d1;
-        public static int mr_control_playback_ctrl=0x7f0b00dc;
-        public static int mr_control_subtitle=0x7f0b00df;
-        public static int mr_control_title=0x7f0b00de;
-        public static int mr_control_title_container=0x7f0b00dd;
-        public static int mr_custom_control=0x7f0b00cc;
-        public static int mr_default_control=0x7f0b00cd;
-        public static int mr_dialog_area=0x7f0b00c8;
-        public static int mr_dialog_header_name=0x7f0b00d7;
-        public static int mr_expandable_area=0x7f0b00c7;
-        public static int mr_group_expand_collapse=0x7f0b00e0;
-        public static int mr_group_volume_route_name=0x7f0b00b5;
-        public static int mr_group_volume_slider=0x7f0b00b6;
-        public static int mr_media_main_control=0x7f0b00cf;
-        public static int mr_name=0x7f0b00ca;
-        public static int mr_picker_close_button=0x7f0b00d8;
-        public static int mr_picker_list=0x7f0b00d9;
-        public static int mr_picker_route_icon=0x7f0b00da;
-        public static int mr_picker_route_name=0x7f0b00db;
-        public static int mr_playback_control=0x7f0b00d0;
-        public static int mr_title_bar=0x7f0b00c9;
-        public static int mr_volume_control=0x7f0b00d2;
-        public static int mr_volume_group_list=0x7f0b00d3;
-        public static int mr_volume_item_icon=0x7f0b00d5;
-        public static int mr_volume_slider=0x7f0b00d6;
+        public static int mr_art=0x7f0b00dd;
+        public static int mr_cast_checkbox=0x7f0b00ce;
+        public static int mr_cast_close_button=0x7f0b00c7;
+        public static int mr_cast_group_icon=0x7f0b00c2;
+        public static int mr_cast_group_name=0x7f0b00c3;
+        public static int mr_cast_list=0x7f0b00c1;
+        public static int mr_cast_meta=0x7f0b00c6;
+        public static int mr_cast_meta_art=0x7f0b00c8;
+        public static int mr_cast_meta_subtitle=0x7f0b00ca;
+        public static int mr_cast_meta_title=0x7f0b00c9;
+        public static int mr_cast_route_icon=0x7f0b00cc;
+        public static int mr_cast_route_name=0x7f0b00cd;
+        public static int mr_cast_stop_button=0x7f0b00cb;
+        public static int mr_cast_volume_layout=0x7f0b00cf;
+        public static int mr_cast_volume_slider=0x7f0b00d0;
+        public static int mr_chooser_list=0x7f0b00d2;
+        public static int mr_chooser_route_desc=0x7f0b00d5;
+        public static int mr_chooser_route_icon=0x7f0b00d3;
+        public static int mr_chooser_route_name=0x7f0b00d4;
+        public static int mr_chooser_title=0x7f0b00d1;
+        public static int mr_close=0x7f0b00da;
+        public static int mr_control_divider=0x7f0b00e0;
+        public static int mr_control_playback_ctrl=0x7f0b00eb;
+        public static int mr_control_subtitle=0x7f0b00ee;
+        public static int mr_control_title=0x7f0b00ed;
+        public static int mr_control_title_container=0x7f0b00ec;
+        public static int mr_custom_control=0x7f0b00db;
+        public static int mr_default_control=0x7f0b00dc;
+        public static int mr_dialog_area=0x7f0b00d7;
+        public static int mr_dialog_header_name=0x7f0b00e6;
+        public static int mr_expandable_area=0x7f0b00d6;
+        public static int mr_group_expand_collapse=0x7f0b00ef;
+        public static int mr_group_volume_route_name=0x7f0b00c4;
+        public static int mr_group_volume_slider=0x7f0b00c5;
+        public static int mr_media_main_control=0x7f0b00de;
+        public static int mr_name=0x7f0b00d9;
+        public static int mr_picker_close_button=0x7f0b00e7;
+        public static int mr_picker_list=0x7f0b00e8;
+        public static int mr_picker_route_icon=0x7f0b00e9;
+        public static int mr_picker_route_name=0x7f0b00ea;
+        public static int mr_playback_control=0x7f0b00df;
+        public static int mr_title_bar=0x7f0b00d8;
+        public static int mr_volume_control=0x7f0b00e1;
+        public static int mr_volume_group_list=0x7f0b00e2;
+        public static int mr_volume_item_icon=0x7f0b00e4;
+        public static int mr_volume_slider=0x7f0b00e5;
         public static int mtrl_child_content_container=0x7f0b0014;
         public static int mtrl_internal_children_alpha_tag=0x7f0b0015;
         public static int multiply=0x7f0b002f;
-        public static int navigation_header_container=0x7f0b00aa;
+        public static int navigation_header_container=0x7f0b00b9;
         public static int never=0x7f0b0042;
         public static int none=0x7f0b0029;
         public static int normal=0x7f0b0025;
-        public static int notification_background=0x7f0b00f0;
-        public static int notification_main_column=0x7f0b00ea;
-        public static int notification_main_column_container=0x7f0b00e9;
+        public static int notification_background=0x7f0b00ff;
+        public static int notification_main_column=0x7f0b00f9;
+        public static int notification_main_column_container=0x7f0b00f8;
         public static int outline=0x7f0b0060;
         public static int parallax=0x7f0b0057;
-        public static int parentPanel=0x7f0b0074;
+        public static int parentPanel=0x7f0b0083;
         public static int parent_matrix=0x7f0b000b;
         public static int pin=0x7f0b0058;
         public static int progress_circular=0x7f0b0006;
         public static int progress_horizontal=0x7f0b0007;
-        public static int radio=0x7f0b0087;
+        public static int radio=0x7f0b0095;
         public static int right=0x7f0b0055;
-        public static int right_icon=0x7f0b00ef;
-        public static int right_side=0x7f0b00eb;
+        public static int right_icon=0x7f0b00fe;
+        public static int right_side=0x7f0b00fa;
         public static int save_image_matrix=0x7f0b000c;
         public static int save_non_transition_alpha=0x7f0b000d;
         public static int save_scale_type=0x7f0b000e;
         public static int screen=0x7f0b0030;
         public static int scroll=0x7f0b0049;
-        public static int scrollIndicatorDown=0x7f0b007a;
-        public static int scrollIndicatorUp=0x7f0b0076;
-        public static int scrollView=0x7f0b0077;
+        public static int scrollIndicatorDown=0x7f0b0089;
+        public static int scrollIndicatorUp=0x7f0b0085;
+        public static int scrollView=0x7f0b0086;
         public static int scrollable=0x7f0b005d;
-        public static int search_badge=0x7f0b0091;
-        public static int search_bar=0x7f0b0090;
-        public static int search_button=0x7f0b0092;
-        public static int search_close_btn=0x7f0b0097;
-        public static int search_edit_frame=0x7f0b0093;
-        public static int search_go_btn=0x7f0b0099;
-        public static int search_mag_icon=0x7f0b0094;
-        public static int search_plate=0x7f0b0095;
-        public static int search_src_text=0x7f0b0096;
-        public static int search_voice_btn=0x7f0b009a;
-        public static int select_dialog_listview=0x7f0b009b;
+        public static int search_badge=0x7f0b009f;
+        public static int search_bar=0x7f0b009e;
+        public static int search_button=0x7f0b00a0;
+        public static int search_close_btn=0x7f0b00a5;
+        public static int search_edit_frame=0x7f0b00a1;
+        public static int search_go_btn=0x7f0b00a7;
+        public static int search_mag_icon=0x7f0b00a2;
+        public static int search_plate=0x7f0b00a3;
+        public static int search_src_text=0x7f0b00a4;
+        public static int search_voice_btn=0x7f0b00a8;
+        public static int select_dialog_listview=0x7f0b00a9;
         public static int selected=0x7f0b004f;
-        public static int shellcontent_appbar=0x7f0b00f8;
-        public static int shellcontent_scrollview=0x7f0b00fa;
-        public static int shellcontent_toolbar=0x7f0b00f9;
-        public static int shortcut=0x7f0b0083;
+        public static int shellcontent_appbar=0x7f0b0107;
+        public static int shellcontent_scrollview=0x7f0b0109;
+        public static int shellcontent_toolbar=0x7f0b0108;
+        public static int shortcut=0x7f0b0091;
         public static int showCustom=0x7f0b002a;
         public static int showHome=0x7f0b002b;
         public static int showTitle=0x7f0b002c;
-        public static int sliding_tabs=0x7f0b00fb;
-        public static int smallLabel=0x7f0b00a4;
+        public static int sliding_tabs=0x7f0b010a;
+        public static int smallLabel=0x7f0b00b3;
         public static int snackbar_action=0x7f0b0016;
         public static int snackbar_text=0x7f0b0017;
         public static int snap=0x7f0b004a;
         public static int snapMargins=0x7f0b004b;
-        public static int spacer=0x7f0b0073;
+        public static int spacer=0x7f0b0082;
         public static int split_action_bar=0x7f0b0008;
         public static int src_atop=0x7f0b0031;
         public static int src_in=0x7f0b0032;
         public static int src_over=0x7f0b0033;
         public static int start=0x7f0b0056;
-        public static int status_bar_latest_event_content=0x7f0b00e6;
+        public static int startsWith=0x7f0b0070;
+        public static int startsWithCaseSensitive=0x7f0b0071;
+        public static int status_bar_latest_event_content=0x7f0b00f5;
         public static int stretch=0x7f0b005b;
-        public static int submenuarrow=0x7f0b0084;
-        public static int submit_area=0x7f0b0098;
+        public static int submenuarrow=0x7f0b0092;
+        public static int submit_area=0x7f0b00a6;
+        public static int suggest=0x7f0b0076;
+        public static int suggestAppend=0x7f0b0077;
         public static int tabMode=0x7f0b0026;
         public static int tag_transition_group=0x7f0b001e;
         public static int tag_unhandled_key_event_manager=0x7f0b001f;
         public static int tag_unhandled_key_listeners=0x7f0b0020;
         public static int text=0x7f0b0021;
         public static int text2=0x7f0b0022;
-        public static int textSpacerNoButtons=0x7f0b0079;
-        public static int textSpacerNoTitle=0x7f0b0078;
+        public static int textSpacerNoButtons=0x7f0b0088;
+        public static int textSpacerNoTitle=0x7f0b0087;
         public static int textStart=0x7f0b005a;
-        public static int text_input_password_toggle=0x7f0b00af;
+        public static int text_input_password_toggle=0x7f0b00be;
         public static int textinput_counter=0x7f0b0018;
         public static int textinput_error=0x7f0b0019;
         public static int textinput_helper_text=0x7f0b001a;
-        public static int time=0x7f0b00ec;
+        public static int time=0x7f0b00fb;
         public static int title=0x7f0b0023;
-        public static int titleDividerNoCustom=0x7f0b0080;
-        public static int title_template=0x7f0b007e;
-        public static int toolbar=0x7f0b00fc;
+        public static int titleDividerNoCustom=0x7f0b008e;
+        public static int title_template=0x7f0b008c;
+        public static int token=0x7f0b0074;
+        public static int toolbar=0x7f0b010b;
         public static int top=0x7f0b0045;
-        public static int topPanel=0x7f0b007d;
-        public static int touch_outside=0x7f0b00a8;
+        public static int topPanel=0x7f0b008b;
+        public static int touch_outside=0x7f0b00b7;
         public static int transition_current_scene=0x7f0b000f;
         public static int transition_layout_save=0x7f0b0010;
         public static int transition_position=0x7f0b0011;
@@ -5096,9 +5526,10 @@ containing a value of this type.
         public static int up=0x7f0b0009;
         public static int useLogo=0x7f0b002d;
         public static int view_offset_helper=0x7f0b001b;
-        public static int visible=0x7f0b00fd;
-        public static int volume_item_container=0x7f0b00d4;
+        public static int visible=0x7f0b010c;
+        public static int volume_item_container=0x7f0b00e3;
         public static int withText=0x7f0b0043;
+        public static int wrap=0x7f0b0072;
         public static int wrap_content=0x7f0b0035;
     }
     public static final class integer {
@@ -5162,60 +5593,63 @@ containing a value of this type.
         public static int bottomtablayout=0x7f04001c;
         public static int browser_actions_context_menu_page=0x7f04001d;
         public static int browser_actions_context_menu_row=0x7f04001e;
-        public static int design_bottom_navigation_item=0x7f04001f;
-        public static int design_bottom_sheet_dialog=0x7f040020;
-        public static int design_layout_snackbar=0x7f040021;
-        public static int design_layout_snackbar_include=0x7f040022;
-        public static int design_layout_tab_icon=0x7f040023;
-        public static int design_layout_tab_text=0x7f040024;
-        public static int design_menu_item_action_area=0x7f040025;
-        public static int design_navigation_item=0x7f040026;
-        public static int design_navigation_item_header=0x7f040027;
-        public static int design_navigation_item_separator=0x7f040028;
-        public static int design_navigation_item_subheader=0x7f040029;
-        public static int design_navigation_menu=0x7f04002a;
-        public static int design_navigation_menu_item=0x7f04002b;
-        public static int design_text_input_password_icon=0x7f04002c;
-        public static int flyoutcontent=0x7f04002d;
-        public static int mr_cast_dialog=0x7f04002e;
-        public static int mr_cast_group_item=0x7f04002f;
-        public static int mr_cast_group_volume_item=0x7f040030;
-        public static int mr_cast_media_metadata=0x7f040031;
-        public static int mr_cast_route_item=0x7f040032;
-        public static int mr_chooser_dialog=0x7f040033;
-        public static int mr_chooser_list_item=0x7f040034;
-        public static int mr_controller_material_dialog_b=0x7f040035;
-        public static int mr_controller_volume_item=0x7f040036;
-        public static int mr_dialog_header_item=0x7f040037;
-        public static int mr_picker_dialog=0x7f040038;
-        public static int mr_picker_route_item=0x7f040039;
-        public static int mr_playback_control=0x7f04003a;
-        public static int mr_volume_control=0x7f04003b;
-        public static int mtrl_layout_snackbar=0x7f04003c;
-        public static int mtrl_layout_snackbar_include=0x7f04003d;
-        public static int notification_action=0x7f04003e;
-        public static int notification_action_tombstone=0x7f04003f;
-        public static int notification_media_action=0x7f040040;
-        public static int notification_media_cancel_action=0x7f040041;
-        public static int notification_template_big_media=0x7f040042;
-        public static int notification_template_big_media_custom=0x7f040043;
-        public static int notification_template_big_media_narrow=0x7f040044;
-        public static int notification_template_big_media_narrow_custom=0x7f040045;
-        public static int notification_template_custom_big=0x7f040046;
-        public static int notification_template_icon_group=0x7f040047;
-        public static int notification_template_lines_media=0x7f040048;
-        public static int notification_template_media=0x7f040049;
-        public static int notification_template_media_custom=0x7f04004a;
-        public static int notification_template_part_chronometer=0x7f04004b;
-        public static int notification_template_part_time=0x7f04004c;
-        public static int rootlayout=0x7f04004d;
-        public static int select_dialog_item_material=0x7f04004e;
-        public static int select_dialog_multichoice_material=0x7f04004f;
-        public static int select_dialog_singlechoice_material=0x7f040050;
-        public static int shellcontent=0x7f040051;
-        public static int support_simple_spinner_dropdown_item=0x7f040052;
-        public static int tabbar=0x7f040053;
-        public static int toolbar=0x7f040054;
+        public static int customizedview=0x7f04001f;
+        public static int customizedview1=0x7f040020;
+        public static int design_bottom_navigation_item=0x7f040021;
+        public static int design_bottom_sheet_dialog=0x7f040022;
+        public static int design_layout_snackbar=0x7f040023;
+        public static int design_layout_snackbar_include=0x7f040024;
+        public static int design_layout_tab_icon=0x7f040025;
+        public static int design_layout_tab_text=0x7f040026;
+        public static int design_menu_item_action_area=0x7f040027;
+        public static int design_navigation_item=0x7f040028;
+        public static int design_navigation_item_header=0x7f040029;
+        public static int design_navigation_item_separator=0x7f04002a;
+        public static int design_navigation_item_subheader=0x7f04002b;
+        public static int design_navigation_menu=0x7f04002c;
+        public static int design_navigation_menu_item=0x7f04002d;
+        public static int design_text_input_password_icon=0x7f04002e;
+        public static int flyoutcontent=0x7f04002f;
+        public static int mr_cast_dialog=0x7f040030;
+        public static int mr_cast_group_item=0x7f040031;
+        public static int mr_cast_group_volume_item=0x7f040032;
+        public static int mr_cast_media_metadata=0x7f040033;
+        public static int mr_cast_route_item=0x7f040034;
+        public static int mr_chooser_dialog=0x7f040035;
+        public static int mr_chooser_list_item=0x7f040036;
+        public static int mr_controller_material_dialog_b=0x7f040037;
+        public static int mr_controller_volume_item=0x7f040038;
+        public static int mr_dialog_header_item=0x7f040039;
+        public static int mr_picker_dialog=0x7f04003a;
+        public static int mr_picker_route_item=0x7f04003b;
+        public static int mr_playback_control=0x7f04003c;
+        public static int mr_volume_control=0x7f04003d;
+        public static int mtrl_layout_snackbar=0x7f04003e;
+        public static int mtrl_layout_snackbar_include=0x7f04003f;
+        public static int notification_action=0x7f040040;
+        public static int notification_action_tombstone=0x7f040041;
+        public static int notification_media_action=0x7f040042;
+        public static int notification_media_cancel_action=0x7f040043;
+        public static int notification_template_big_media=0x7f040044;
+        public static int notification_template_big_media_custom=0x7f040045;
+        public static int notification_template_big_media_narrow=0x7f040046;
+        public static int notification_template_big_media_narrow_custom=0x7f040047;
+        public static int notification_template_custom_big=0x7f040048;
+        public static int notification_template_icon_group=0x7f040049;
+        public static int notification_template_lines_media=0x7f04004a;
+        public static int notification_template_media=0x7f04004b;
+        public static int notification_template_media_custom=0x7f04004c;
+        public static int notification_template_part_chronometer=0x7f04004d;
+        public static int notification_template_part_time=0x7f04004e;
+        public static int rootlayout=0x7f04004f;
+        public static int select_dialog_item_material=0x7f040050;
+        public static int select_dialog_multichoice_material=0x7f040051;
+        public static int select_dialog_singlechoice_material=0x7f040052;
+        public static int sfautocomplete_layout=0x7f040053;
+        public static int shellcontent=0x7f040054;
+        public static int support_simple_spinner_dropdown_item=0x7f040055;
+        public static int tabbar=0x7f040056;
+        public static int toolbar=0x7f040057;
     }
     public static final class mipmap {
         public static int icon=0x7f030000;
@@ -5269,6 +5703,7 @@ containing a value of this type.
         public static int fab_transformation_scrim_behavior=0x7f0c0044;
         public static int fab_transformation_sheet_behavior=0x7f0c0045;
         public static int hide_bottom_view_on_scroll_behavior=0x7f0c0046;
+        public static int library_name=0x7f0c004e;
         public static int mr_button_content_description=0x7f0c0000;
         public static int mr_cast_button_connected=0x7f0c0001;
         public static int mr_cast_button_connecting=0x7f0c0002;
@@ -14992,6 +15427,816 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name android.support.v7.mediarouter:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
+        /** Attributes that can be used with a SfAutoComplete.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteBorderColor android.support.v7.mediarouter:autocompleteBorderColor}</code></td><td>        border color of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteClearButtonColor android.support.v7.mediarouter:autocompleteClearButtonColor}</code></td><td>clear button color of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDisplayMemberPath android.support.v7.mediarouter:autocompleteDisplayMemberPath}</code></td><td>specifies the property path with which filtering is done on business objects</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownBackgroundColor android.support.v7.mediarouter:autocompleteDropDownBackgroundColor}</code></td><td>drop down background color of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownCornerRadius android.support.v7.mediarouter:autocompleteDropDownCornerRadius}</code></td><td>determines the drop down corner radius of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownFooterViewHeight android.support.v7.mediarouter:autocompleteDropDownFooterViewHeight}</code></td><td>determines the drop down footer view height of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownHeaderViewHeight android.support.v7.mediarouter:autocompleteDropDownHeaderViewHeight}</code></td><td>determines the drop down header view height of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownItemHeight android.support.v7.mediarouter:autocompleteDropDownItemHeight}</code></td><td>determines the height of the drop down of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownOpen android.support.v7.mediarouter:autocompleteDropDownOpen}</code></td><td>determine whether drop down has to be shown or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownTextColor android.support.v7.mediarouter:autocompleteDropDownTextColor}</code></td><td>drop down text color of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteDropDownTextSize android.support.v7.mediarouter:autocompleteDropDownTextSize}</code></td><td>determines the size of the drop down text of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteEnableSelectionIndicator android.support.v7.mediarouter:autocompleteEnableSelectionIndicator}</code></td><td>determine whether selection indicator has to be shown or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteHighlightedTextColor android.support.v7.mediarouter:autocompleteHighlightedTextColor}</code></td><td>Highlighted text color of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteIgnoreDiacritic android.support.v7.mediarouter:autocompleteIgnoreDiacritic}</code></td><td>determine whether the letters containing diacritics has to be shown or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteImageMemberPath android.support.v7.mediarouter:autocompleteImageMemberPath}</code></td><td>determines the image member path of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteIndicatorText android.support.v7.mediarouter:autocompleteIndicatorText}</code></td><td>determine the indicator text of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteIndicatorTextColor android.support.v7.mediarouter:autocompleteIndicatorTextColor}</code></td><td>indicator text color of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteIndicatorTextSize android.support.v7.mediarouter:autocompleteIndicatorTextSize}</code></td><td>determines the size of the Indicator text of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteIsFocused android.support.v7.mediarouter:autocompleteIsFocused}</code></td><td>determine whether the autocomplete has to be focused or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown android.support.v7.mediarouter:autocompleteIsSelectedItemsVisibleInDropDown}</code></td><td>determine whether the selected items has to be shown in the drop down or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteLoadMoreText android.support.v7.mediarouter:autocompleteLoadMoreText}</code></td><td>determines the load more text of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteMaximumDropDownHeight android.support.v7.mediarouter:autocompleteMaximumDropDownHeight}</code></td><td>determines the maximum height of the drop down of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteMaximumSuggestion android.support.v7.mediarouter:autocompleteMaximumSuggestion}</code></td><td>determine the maximum suggestion of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteMinimumPrefixCharacters android.support.v7.mediarouter:autocompleteMinimumPrefixCharacters}</code></td><td>matches can be filtered and displayed after a few character entries</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteMode android.support.v7.mediarouter:autocompleteMode}</code></td><td>determines the mode for autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteMultiSelectMode android.support.v7.mediarouter:autocompleteMultiSelectMode}</code></td><td>determines the multi select mode for autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteNoResultsFoundText android.support.v7.mediarouter:autocompleteNoResultsFoundText}</code></td><td>determines the no results found text of autocomplete </td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompletePopUpDelay android.support.v7.mediarouter:autocompletePopUpDelay}</code></td><td>determine the popup delay in autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteSelectedIndex android.support.v7.mediarouter:autocompleteSelectedIndex}</code></td><td>determine the index of the selected item in autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteShowBorder android.support.v7.mediarouter:autocompleteShowBorder}</code></td><td>        show the border of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteShowClearButton android.support.v7.mediarouter:autocompleteShowClearButton}</code></td><td>        determine whether clear button has to be shown or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteShowDropDownFooterView android.support.v7.mediarouter:autocompleteShowDropDownFooterView}</code></td><td>determine whether the drop down footer view has to be shown or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteShowDropDownHeaderView android.support.v7.mediarouter:autocompleteShowDropDownHeaderView}</code></td><td>determine whether the drop down header view has to be shown or not</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteShowSuggestionsOnFocus android.support.v7.mediarouter:autocompleteShowSuggestionsOnFocus}</code></td><td>determine whether suggestion has to be shown or not when autocomplete is on focus</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteSuggestionBoxPlacement android.support.v7.mediarouter:autocompleteSuggestionBoxPlacement}</code></td><td>determines the suggestion box placement for autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteSuggestionMode android.support.v7.mediarouter:autocompleteSuggestionMode}</code></td><td>determines the suggestion mode for autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteText android.support.v7.mediarouter:autocompleteText}</code></td><td>        text value of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteTextColor android.support.v7.mediarouter:autocompleteTextColor}</code></td><td>        text colot of autoocmplete text</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteTextSize android.support.v7.mediarouter:autocompleteTextSize}</code></td><td>        size of autocomplete text</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteTokensWrapMode android.support.v7.mediarouter:autocompleteTokensWrapMode}</code></td><td>determines the token wrap mode for autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteWatermark android.support.v7.mediarouter:autocompleteWatermark}</code></td><td>        hint text of autocomplete</td></tr>
+           <tr><td><code>{@link #SfAutoComplete_autocompleteWatermarkColor android.support.v7.mediarouter:autocompleteWatermarkColor}</code></td><td>        hint color of autocomplete</td></tr>
+           </table>
+           @see #SfAutoComplete_autocompleteBorderColor
+           @see #SfAutoComplete_autocompleteClearButtonColor
+           @see #SfAutoComplete_autocompleteDisplayMemberPath
+           @see #SfAutoComplete_autocompleteDropDownBackgroundColor
+           @see #SfAutoComplete_autocompleteDropDownCornerRadius
+           @see #SfAutoComplete_autocompleteDropDownFooterViewHeight
+           @see #SfAutoComplete_autocompleteDropDownHeaderViewHeight
+           @see #SfAutoComplete_autocompleteDropDownItemHeight
+           @see #SfAutoComplete_autocompleteDropDownOpen
+           @see #SfAutoComplete_autocompleteDropDownTextColor
+           @see #SfAutoComplete_autocompleteDropDownTextSize
+           @see #SfAutoComplete_autocompleteEnableSelectionIndicator
+           @see #SfAutoComplete_autocompleteHighlightedTextColor
+           @see #SfAutoComplete_autocompleteIgnoreDiacritic
+           @see #SfAutoComplete_autocompleteImageMemberPath
+           @see #SfAutoComplete_autocompleteIndicatorText
+           @see #SfAutoComplete_autocompleteIndicatorTextColor
+           @see #SfAutoComplete_autocompleteIndicatorTextSize
+           @see #SfAutoComplete_autocompleteIsFocused
+           @see #SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown
+           @see #SfAutoComplete_autocompleteLoadMoreText
+           @see #SfAutoComplete_autocompleteMaximumDropDownHeight
+           @see #SfAutoComplete_autocompleteMaximumSuggestion
+           @see #SfAutoComplete_autocompleteMinimumPrefixCharacters
+           @see #SfAutoComplete_autocompleteMode
+           @see #SfAutoComplete_autocompleteMultiSelectMode
+           @see #SfAutoComplete_autocompleteNoResultsFoundText
+           @see #SfAutoComplete_autocompletePopUpDelay
+           @see #SfAutoComplete_autocompleteSelectedIndex
+           @see #SfAutoComplete_autocompleteShowBorder
+           @see #SfAutoComplete_autocompleteShowClearButton
+           @see #SfAutoComplete_autocompleteShowDropDownFooterView
+           @see #SfAutoComplete_autocompleteShowDropDownHeaderView
+           @see #SfAutoComplete_autocompleteShowSuggestionsOnFocus
+           @see #SfAutoComplete_autocompleteSuggestionBoxPlacement
+           @see #SfAutoComplete_autocompleteSuggestionMode
+           @see #SfAutoComplete_autocompleteText
+           @see #SfAutoComplete_autocompleteTextColor
+           @see #SfAutoComplete_autocompleteTextSize
+           @see #SfAutoComplete_autocompleteTokensWrapMode
+           @see #SfAutoComplete_autocompleteWatermark
+           @see #SfAutoComplete_autocompleteWatermarkColor
+         */
+        public static final int[] SfAutoComplete = {
+            0x7f0101eb, 0x7f0101ec, 0x7f0101ed, 0x7f0101ee,
+            0x7f0101ef, 0x7f0101f0, 0x7f0101f1, 0x7f0101f2,
+            0x7f0101f3, 0x7f0101f4, 0x7f0101f5, 0x7f0101f6,
+            0x7f0101f7, 0x7f0101f8, 0x7f0101f9, 0x7f0101fa,
+            0x7f0101fb, 0x7f0101fc, 0x7f0101fd, 0x7f0101fe,
+            0x7f0101ff, 0x7f010200, 0x7f010201, 0x7f010202,
+            0x7f010203, 0x7f010204, 0x7f010205, 0x7f010206,
+            0x7f010207, 0x7f010208, 0x7f010209, 0x7f01020a,
+            0x7f01020b, 0x7f01020c, 0x7f01020d, 0x7f01020e,
+            0x7f01020f, 0x7f010210, 0x7f010211, 0x7f010212,
+            0x7f010213, 0x7f010214
+        };
+        /**
+          <p>
+          @attr description
+                  border color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteBorderColor
+        */
+        public static int SfAutoComplete_autocompleteBorderColor = 4;
+        /**
+          <p>
+          @attr description
+          clear button color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteClearButtonColor
+        */
+        public static int SfAutoComplete_autocompleteClearButtonColor = 25;
+        /**
+          <p>
+          @attr description
+          specifies the property path with which filtering is done on business objects
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDisplayMemberPath
+        */
+        public static int SfAutoComplete_autocompleteDisplayMemberPath = 13;
+        /**
+          <p>
+          @attr description
+          drop down background color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownBackgroundColor
+        */
+        public static int SfAutoComplete_autocompleteDropDownBackgroundColor = 18;
+        /**
+          <p>
+          @attr description
+          determines the drop down corner radius of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownCornerRadius
+        */
+        public static int SfAutoComplete_autocompleteDropDownCornerRadius = 34;
+        /**
+          <p>
+          @attr description
+          determines the drop down footer view height of autocomplete
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownFooterViewHeight
+        */
+        public static int SfAutoComplete_autocompleteDropDownFooterViewHeight = 36;
+        /**
+          <p>
+          @attr description
+          determines the drop down header view height of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownHeaderViewHeight
+        */
+        public static int SfAutoComplete_autocompleteDropDownHeaderViewHeight = 35;
+        /**
+          <p>
+          @attr description
+          determines the height of the drop down of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownItemHeight
+        */
+        public static int SfAutoComplete_autocompleteDropDownItemHeight = 33;
+        /**
+          <p>
+          @attr description
+          determine whether drop down has to be shown or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownOpen
+        */
+        public static int SfAutoComplete_autocompleteDropDownOpen = 8;
+        /**
+          <p>
+          @attr description
+          drop down text color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownTextColor
+        */
+        public static int SfAutoComplete_autocompleteDropDownTextColor = 19;
+        /**
+          <p>
+          @attr description
+          determines the size of the drop down text of autocomplete
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteDropDownTextSize
+        */
+        public static int SfAutoComplete_autocompleteDropDownTextSize = 21;
+        /**
+          <p>
+          @attr description
+          determine whether selection indicator has to be shown or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteEnableSelectionIndicator
+        */
+        public static int SfAutoComplete_autocompleteEnableSelectionIndicator = 14;
+        /**
+          <p>
+          @attr description
+          Highlighted text color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteHighlightedTextColor
+        */
+        public static int SfAutoComplete_autocompleteHighlightedTextColor = 31;
+        /**
+          <p>
+          @attr description
+          determine whether the letters containing diacritics has to be shown or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteIgnoreDiacritic
+        */
+        public static int SfAutoComplete_autocompleteIgnoreDiacritic = 26;
+        /**
+          <p>
+          @attr description
+          determines the image member path of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteImageMemberPath
+        */
+        public static int SfAutoComplete_autocompleteImageMemberPath = 22;
+        /**
+          <p>
+          @attr description
+          determine the indicator text of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteIndicatorText
+        */
+        public static int SfAutoComplete_autocompleteIndicatorText = 15;
+        /**
+          <p>
+          @attr description
+          indicator text color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteIndicatorTextColor
+        */
+        public static int SfAutoComplete_autocompleteIndicatorTextColor = 16;
+        /**
+          <p>
+          @attr description
+          determines the size of the Indicator text of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteIndicatorTextSize
+        */
+        public static int SfAutoComplete_autocompleteIndicatorTextSize = 32;
+        /**
+          <p>
+          @attr description
+          determine whether the autocomplete has to be focused or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteIsFocused
+        */
+        public static int SfAutoComplete_autocompleteIsFocused = 27;
+        /**
+          <p>
+          @attr description
+          determine whether the selected items has to be shown in the drop down or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteIsSelectedItemsVisibleInDropDown
+        */
+        public static int SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown = 30;
+        /**
+          <p>
+          @attr description
+          determines the load more text of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteLoadMoreText
+        */
+        public static int SfAutoComplete_autocompleteLoadMoreText = 28;
+        /**
+          <p>
+          @attr description
+          determines the maximum height of the drop down of autocomplete
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteMaximumDropDownHeight
+        */
+        public static int SfAutoComplete_autocompleteMaximumDropDownHeight = 20;
+        /**
+          <p>
+          @attr description
+          determine the maximum suggestion of autocomplete
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteMaximumSuggestion
+        */
+        public static int SfAutoComplete_autocompleteMaximumSuggestion = 9;
+        /**
+          <p>
+          @attr description
+          matches can be filtered and displayed after a few character entries
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteMinimumPrefixCharacters
+        */
+        public static int SfAutoComplete_autocompleteMinimumPrefixCharacters = 17;
+        /**
+          <p>
+          @attr description
+          determines the mode for autocomplete
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>suggest</code></td><td>0</td><td></td></tr>
+<tr><td><code>append</code></td><td>1</td><td></td></tr>
+<tr><td><code>suggestAppend</code></td><td>2</td><td></td></tr>
+</table>
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteMode
+        */
+        public static int SfAutoComplete_autocompleteMode = 41;
+        /**
+          <p>
+          @attr description
+          determines the multi select mode for autocomplete
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>token</code></td><td>1</td><td></td></tr>
+<tr><td><code>delimiter</code></td><td>2</td><td></td></tr>
+</table>
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteMultiSelectMode
+        */
+        public static int SfAutoComplete_autocompleteMultiSelectMode = 40;
+        /**
+          <p>
+          @attr description
+          determines the no results found text of autocomplete 
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteNoResultsFoundText
+        */
+        public static int SfAutoComplete_autocompleteNoResultsFoundText = 29;
+        /**
+          <p>
+          @attr description
+          determine the popup delay in autocomplete
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompletePopUpDelay
+        */
+        public static int SfAutoComplete_autocompletePopUpDelay = 12;
+        /**
+          <p>
+          @attr description
+          determine the index of the selected item in autocomplete
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteSelectedIndex
+        */
+        public static int SfAutoComplete_autocompleteSelectedIndex = 10;
+        /**
+          <p>
+          @attr description
+                  show the border of autocomplete
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteShowBorder
+        */
+        public static int SfAutoComplete_autocompleteShowBorder = 0;
+        /**
+          <p>
+          @attr description
+                  determine whether clear button has to be shown or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteShowClearButton
+        */
+        public static int SfAutoComplete_autocompleteShowClearButton = 1;
+        /**
+          <p>
+          @attr description
+          determine whether the drop down footer view has to be shown or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteShowDropDownFooterView
+        */
+        public static int SfAutoComplete_autocompleteShowDropDownFooterView = 24;
+        /**
+          <p>
+          @attr description
+          determine whether the drop down header view has to be shown or not
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteShowDropDownHeaderView
+        */
+        public static int SfAutoComplete_autocompleteShowDropDownHeaderView = 23;
+        /**
+          <p>
+          @attr description
+          determine whether suggestion has to be shown or not when autocomplete is on focus
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteShowSuggestionsOnFocus
+        */
+        public static int SfAutoComplete_autocompleteShowSuggestionsOnFocus = 11;
+        /**
+          <p>
+          @attr description
+          determines the suggestion box placement for autocomplete
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>bottom</code></td><td>0</td><td></td></tr>
+<tr><td><code>top</code></td><td>1</td><td></td></tr>
+<tr><td><code>none</code></td><td>2</td><td></td></tr>
+</table>
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteSuggestionBoxPlacement
+        */
+        public static int SfAutoComplete_autocompleteSuggestionBoxPlacement = 38;
+        /**
+          <p>
+          @attr description
+          determines the suggestion mode for autocomplete
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>startsWith</code></td><td>0</td><td></td></tr>
+<tr><td><code>startsWithCaseSensitive</code></td><td>1</td><td></td></tr>
+<tr><td><code>contains</code></td><td>2</td><td></td></tr>
+<tr><td><code>containsWithCaseSensitive</code></td><td>3</td><td></td></tr>
+<tr><td><code>endsWith</code></td><td>4</td><td></td></tr>
+<tr><td><code>endsWithCaseSensitive</code></td><td>5</td><td></td></tr>
+<tr><td><code>equals</code></td><td>6</td><td></td></tr>
+<tr><td><code>equalsWithCaseSensitive</code></td><td>7</td><td></td></tr>
+<tr><td><code>custom</code></td><td>8</td><td></td></tr>
+</table>
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteSuggestionMode
+        */
+        public static int SfAutoComplete_autocompleteSuggestionMode = 37;
+        /**
+          <p>
+          @attr description
+                  text value of autocomplete
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteText
+        */
+        public static int SfAutoComplete_autocompleteText = 6;
+        /**
+          <p>
+          @attr description
+                  text colot of autoocmplete text
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteTextColor
+        */
+        public static int SfAutoComplete_autocompleteTextColor = 3;
+        /**
+          <p>
+          @attr description
+                  size of autocomplete text
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteTextSize
+        */
+        public static int SfAutoComplete_autocompleteTextSize = 7;
+        /**
+          <p>
+          @attr description
+          determines the token wrap mode for autocomplete
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>wrap</code></td><td>1</td><td></td></tr>
+</table>
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteTokensWrapMode
+        */
+        public static int SfAutoComplete_autocompleteTokensWrapMode = 39;
+        /**
+          <p>
+          @attr description
+                  hint text of autocomplete
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteWatermark
+        */
+        public static int SfAutoComplete_autocompleteWatermark = 5;
+        /**
+          <p>
+          @attr description
+                  hint color of autocomplete
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          <p>This is a private symbol.
+          @attr name android.support.v7.mediarouter:autocompleteWatermarkColor
+        */
+        public static int SfAutoComplete_autocompleteWatermarkColor = 2;
         /** Attributes that can be used with a Snackbar.
            <p>Includes the following attributes:</p>
            <table>

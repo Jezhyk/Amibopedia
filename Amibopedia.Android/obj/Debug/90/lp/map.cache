@@ -1,6 +1,12 @@
 Amibopedia
 FormsViewGroup
 Newtonsoft.Json
+Syncfusion.Core.XForms.Android
+Syncfusion.Core.XForms
+Syncfusion.Licensing
+Syncfusion.SfAutoComplete.Android
+Syncfusion.SfAutoComplete.XForms.Android
+Syncfusion.SfAutoComplete.XForms
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime
@@ -42,8 +48,11 @@ Xamarin.Android.Support.Vector.Drawable
 Xamarin.Android.Support.VersionedParcelable
 Xamarin.Android.Support.ViewPager
 Xamarin.Essentials
+Xamarin.Forms.BehaviorsPack
 Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 netstandard
+System.Resources.ResourceManager
+System.Reflection.Extensions

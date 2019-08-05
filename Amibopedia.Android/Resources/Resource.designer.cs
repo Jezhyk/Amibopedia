@@ -26,6 +26,135 @@ namespace Amibopedia.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::Amibopedia.Droid.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::Amibopedia.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::Amibopedia.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteBorderColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteBorderColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteClearButtonColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteClearButtonColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDisplayMemberPath = global::Amibopedia.Droid.Resource.Attribute.autocompleteDisplayMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownBackgroundColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownBackgroundColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownCornerRadius = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownCornerRadius;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownFooterViewHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownFooterViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownHeaderViewHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownHeaderViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownItemHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownItemHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownOpen = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownOpen;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownTextSize = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteEnableSelectionIndicator = global::Amibopedia.Droid.Resource.Attribute.autocompleteEnableSelectionIndicator;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteHighlightedTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteHighlightedTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIgnoreDiacritic = global::Amibopedia.Droid.Resource.Attribute.autocompleteIgnoreDiacritic;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteImageMemberPath = global::Amibopedia.Droid.Resource.Attribute.autocompleteImageMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIndicatorText = global::Amibopedia.Droid.Resource.Attribute.autocompleteIndicatorText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIndicatorTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteIndicatorTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIndicatorTextSize = global::Amibopedia.Droid.Resource.Attribute.autocompleteIndicatorTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIsFocused = global::Amibopedia.Droid.Resource.Attribute.autocompleteIsFocused;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIsSelectedItemsVisibleInDropDown = global::Amibopedia.Droid.Resource.Attribute.autocompleteIsSelectedItemsVisibleInDropDown;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteLoadMoreText = global::Amibopedia.Droid.Resource.Attribute.autocompleteLoadMoreText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMaximumDropDownHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteMaximumDropDownHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMaximumSuggestion = global::Amibopedia.Droid.Resource.Attribute.autocompleteMaximumSuggestion;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMinimumPrefixCharacters = global::Amibopedia.Droid.Resource.Attribute.autocompleteMinimumPrefixCharacters;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMultiSelectMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteMultiSelectMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteNoResultsFoundText = global::Amibopedia.Droid.Resource.Attribute.autocompleteNoResultsFoundText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompletePopUpDelay = global::Amibopedia.Droid.Resource.Attribute.autocompletePopUpDelay;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteSelectedIndex = global::Amibopedia.Droid.Resource.Attribute.autocompleteSelectedIndex;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowBorder = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowBorder;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowClearButton = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowClearButton;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowDropDownFooterView = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowDropDownFooterView;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowDropDownHeaderView = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowDropDownHeaderView;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowSuggestionsOnFocus = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowSuggestionsOnFocus;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteSuggestionBoxPlacement = global::Amibopedia.Droid.Resource.Attribute.autocompleteSuggestionBoxPlacement;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteSuggestionMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteSuggestionMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteText = global::Amibopedia.Droid.Resource.Attribute.autocompleteText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteTextSize = global::Amibopedia.Droid.Resource.Attribute.autocompleteTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteTokensWrapMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteTokensWrapMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteWatermark = global::Amibopedia.Droid.Resource.Attribute.autocompleteWatermark;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteWatermarkColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteWatermarkColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.layoutManager = global::Amibopedia.Droid.Resource.Attribute.layoutManager;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.reverseLayout = global::Amibopedia.Droid.Resource.Attribute.reverseLayout;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.spanCount = global::Amibopedia.Droid.Resource.Attribute.spanCount;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.stackFromEnd = global::Amibopedia.Droid.Resource.Attribute.stackFromEnd;
+			global::Com.Syncfusion.Autocomplete.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Amibopedia.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Com.Syncfusion.Autocomplete.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Amibopedia.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Com.Syncfusion.Autocomplete.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Amibopedia.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Com.Syncfusion.Autocomplete.Resource.Drawable.sfclosebutton = global::Amibopedia.Droid.Resource.Drawable.sfclosebutton;
+			global::Com.Syncfusion.Autocomplete.Resource.Drawable.styleinfo = global::Amibopedia.Droid.Resource.Drawable.styleinfo;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.Itemname = global::Amibopedia.Droid.Resource.Id.Itemname;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.append = global::Amibopedia.Droid.Resource.Id.append;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.bottom = global::Amibopedia.Droid.Resource.Id.bottom;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.contains = global::Amibopedia.Droid.Resource.Id.contains;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.containsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.containsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.custom = global::Amibopedia.Droid.Resource.Id.custom;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.delimiter = global::Amibopedia.Droid.Resource.Id.delimiter;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.endsWith = global::Amibopedia.Droid.Resource.Id.endsWith;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.endsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.endsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.equals = global::Amibopedia.Droid.Resource.Id.equals;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.equalsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.equalsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.icon = global::Amibopedia.Droid.Resource.Id.icon;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.item_touch_helper_previous_elevation = global::Amibopedia.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.none = global::Amibopedia.Droid.Resource.Id.none;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.startsWith = global::Amibopedia.Droid.Resource.Id.startsWith;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.startsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.startsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.suggest = global::Amibopedia.Droid.Resource.Id.suggest;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.suggestAppend = global::Amibopedia.Droid.Resource.Id.suggestAppend;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.token = global::Amibopedia.Droid.Resource.Id.token;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.top = global::Amibopedia.Droid.Resource.Id.top;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.wrap = global::Amibopedia.Droid.Resource.Id.wrap;
+			global::Com.Syncfusion.Autocomplete.Resource.Layout.CustomizedView = global::Amibopedia.Droid.Resource.Layout.CustomizedView;
+			global::Com.Syncfusion.Autocomplete.Resource.Layout.CustomizedView1 = global::Amibopedia.Droid.Resource.Layout.CustomizedView1;
+			global::Com.Syncfusion.Autocomplete.Resource.Layout.sfautocomplete_layout = global::Amibopedia.Droid.Resource.Layout.sfautocomplete_layout;
+			global::Com.Syncfusion.Autocomplete.Resource.String.library_name = global::Amibopedia.Droid.Resource.String.library_name;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView = global::Amibopedia.Droid.Resource.Styleable.RecyclerView;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_android_orientation = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_layoutManager = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_reverseLayout = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_spanCount = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_stackFromEnd = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteBorderColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteBorderColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteClearButtonColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteClearButtonColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDisplayMemberPath = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDisplayMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownBackgroundColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownBackgroundColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownCornerRadius = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownCornerRadius;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownFooterViewHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownFooterViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownHeaderViewHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownHeaderViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownItemHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownItemHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownOpen = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownOpen;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextSize = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteEnableSelectionIndicator = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteEnableSelectionIndicator;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteHighlightedTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteHighlightedTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIgnoreDiacritic = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIgnoreDiacritic;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteImageMemberPath = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteImageMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIndicatorText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIndicatorText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextSize = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIsFocused = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIsFocused;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteLoadMoreText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteLoadMoreText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMaximumDropDownHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMaximumDropDownHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMaximumSuggestion = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMaximumSuggestion;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMinimumPrefixCharacters = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMinimumPrefixCharacters;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMultiSelectMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMultiSelectMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteNoResultsFoundText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteNoResultsFoundText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompletePopUpDelay = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompletePopUpDelay;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteSelectedIndex = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteSelectedIndex;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowBorder = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowBorder;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowClearButton = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowClearButton;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownFooterView = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownFooterView;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownHeaderView = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownHeaderView;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowSuggestionsOnFocus = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowSuggestionsOnFocus;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteSuggestionBoxPlacement = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteSuggestionBoxPlacement;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteSuggestionMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteSuggestionMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteTextSize = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteTokensWrapMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteTokensWrapMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteWatermark = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteWatermark;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteWatermarkColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteWatermarkColor;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Amibopedia.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Amibopedia.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Amibopedia.Droid.Resource.Attribute.font;
@@ -3045,6 +3174,132 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f010052
 			public const int autoSizeTextType = 2130772050;
 			
+			// aapt resource value: 0x7f0101ef
+			public const int autocompleteBorderColor = 2130772463;
+			
+			// aapt resource value: 0x7f010204
+			public const int autocompleteClearButtonColor = 2130772484;
+			
+			// aapt resource value: 0x7f0101f8
+			public const int autocompleteDisplayMemberPath = 2130772472;
+			
+			// aapt resource value: 0x7f0101fd
+			public const int autocompleteDropDownBackgroundColor = 2130772477;
+			
+			// aapt resource value: 0x7f01020d
+			public const int autocompleteDropDownCornerRadius = 2130772493;
+			
+			// aapt resource value: 0x7f01020f
+			public const int autocompleteDropDownFooterViewHeight = 2130772495;
+			
+			// aapt resource value: 0x7f01020e
+			public const int autocompleteDropDownHeaderViewHeight = 2130772494;
+			
+			// aapt resource value: 0x7f01020c
+			public const int autocompleteDropDownItemHeight = 2130772492;
+			
+			// aapt resource value: 0x7f0101f3
+			public const int autocompleteDropDownOpen = 2130772467;
+			
+			// aapt resource value: 0x7f0101fe
+			public const int autocompleteDropDownTextColor = 2130772478;
+			
+			// aapt resource value: 0x7f010200
+			public const int autocompleteDropDownTextSize = 2130772480;
+			
+			// aapt resource value: 0x7f0101f9
+			public const int autocompleteEnableSelectionIndicator = 2130772473;
+			
+			// aapt resource value: 0x7f01020a
+			public const int autocompleteHighlightedTextColor = 2130772490;
+			
+			// aapt resource value: 0x7f010205
+			public const int autocompleteIgnoreDiacritic = 2130772485;
+			
+			// aapt resource value: 0x7f010201
+			public const int autocompleteImageMemberPath = 2130772481;
+			
+			// aapt resource value: 0x7f0101fa
+			public const int autocompleteIndicatorText = 2130772474;
+			
+			// aapt resource value: 0x7f0101fb
+			public const int autocompleteIndicatorTextColor = 2130772475;
+			
+			// aapt resource value: 0x7f01020b
+			public const int autocompleteIndicatorTextSize = 2130772491;
+			
+			// aapt resource value: 0x7f010206
+			public const int autocompleteIsFocused = 2130772486;
+			
+			// aapt resource value: 0x7f010209
+			public const int autocompleteIsSelectedItemsVisibleInDropDown = 2130772489;
+			
+			// aapt resource value: 0x7f010207
+			public const int autocompleteLoadMoreText = 2130772487;
+			
+			// aapt resource value: 0x7f0101ff
+			public const int autocompleteMaximumDropDownHeight = 2130772479;
+			
+			// aapt resource value: 0x7f0101f4
+			public const int autocompleteMaximumSuggestion = 2130772468;
+			
+			// aapt resource value: 0x7f0101fc
+			public const int autocompleteMinimumPrefixCharacters = 2130772476;
+			
+			// aapt resource value: 0x7f010214
+			public const int autocompleteMode = 2130772500;
+			
+			// aapt resource value: 0x7f010213
+			public const int autocompleteMultiSelectMode = 2130772499;
+			
+			// aapt resource value: 0x7f010208
+			public const int autocompleteNoResultsFoundText = 2130772488;
+			
+			// aapt resource value: 0x7f0101f7
+			public const int autocompletePopUpDelay = 2130772471;
+			
+			// aapt resource value: 0x7f0101f5
+			public const int autocompleteSelectedIndex = 2130772469;
+			
+			// aapt resource value: 0x7f0101eb
+			public const int autocompleteShowBorder = 2130772459;
+			
+			// aapt resource value: 0x7f0101ec
+			public const int autocompleteShowClearButton = 2130772460;
+			
+			// aapt resource value: 0x7f010203
+			public const int autocompleteShowDropDownFooterView = 2130772483;
+			
+			// aapt resource value: 0x7f010202
+			public const int autocompleteShowDropDownHeaderView = 2130772482;
+			
+			// aapt resource value: 0x7f0101f6
+			public const int autocompleteShowSuggestionsOnFocus = 2130772470;
+			
+			// aapt resource value: 0x7f010211
+			public const int autocompleteSuggestionBoxPlacement = 2130772497;
+			
+			// aapt resource value: 0x7f010210
+			public const int autocompleteSuggestionMode = 2130772496;
+			
+			// aapt resource value: 0x7f0101f1
+			public const int autocompleteText = 2130772465;
+			
+			// aapt resource value: 0x7f0101ee
+			public const int autocompleteTextColor = 2130772462;
+			
+			// aapt resource value: 0x7f0101f2
+			public const int autocompleteTextSize = 2130772466;
+			
+			// aapt resource value: 0x7f010212
+			public const int autocompleteTokensWrapMode = 2130772498;
+			
+			// aapt resource value: 0x7f0101f0
+			public const int autocompleteWatermark = 2130772464;
+			
+			// aapt resource value: 0x7f0101ed
+			public const int autocompleteWatermarkColor = 2130772461;
+			
 			// aapt resource value: 0x7f01002f
 			public const int background = 2130772015;
 			
@@ -5779,26 +6034,26 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f020054
 			public const int avd_hide_password = 2130837588;
 			
-			// aapt resource value: 0x7f020135
-			public const int avd_hide_password_1 = 2130837813;
+			// aapt resource value: 0x7f02013a
+			public const int avd_hide_password_1 = 2130837818;
 			
-			// aapt resource value: 0x7f020136
-			public const int avd_hide_password_2 = 2130837814;
+			// aapt resource value: 0x7f02013b
+			public const int avd_hide_password_2 = 2130837819;
 			
-			// aapt resource value: 0x7f020137
-			public const int avd_hide_password_3 = 2130837815;
+			// aapt resource value: 0x7f02013c
+			public const int avd_hide_password_3 = 2130837820;
 			
 			// aapt resource value: 0x7f020055
 			public const int avd_show_password = 2130837589;
 			
-			// aapt resource value: 0x7f020138
-			public const int avd_show_password_1 = 2130837816;
+			// aapt resource value: 0x7f02013d
+			public const int avd_show_password_1 = 2130837821;
 			
-			// aapt resource value: 0x7f020139
-			public const int avd_show_password_2 = 2130837817;
+			// aapt resource value: 0x7f02013e
+			public const int avd_show_password_2 = 2130837822;
 			
-			// aapt resource value: 0x7f02013a
-			public const int avd_show_password_3 = 2130837818;
+			// aapt resource value: 0x7f02013f
+			public const int avd_show_password_3 = 2130837823;
 			
 			// aapt resource value: 0x7f020056
 			public const int design_bottom_navigation_item_background = 2130837590;
@@ -6359,115 +6614,130 @@ namespace Amibopedia.Droid
 			public const int ic_vol_type_tv_light = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int mr_button_connected_dark = 2130837776;
+			public const int input_layout_drop_down_icon = 2130837776;
 			
 			// aapt resource value: 0x7f020111
-			public const int mr_button_connected_light = 2130837777;
+			public const int inputlayout_togglecollapseicon = 2130837777;
 			
 			// aapt resource value: 0x7f020112
-			public const int mr_button_connecting_dark = 2130837778;
+			public const int inputlayout_togglevisibleicon = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int mr_button_connecting_light = 2130837779;
+			public const int mr_button_connected_dark = 2130837779;
 			
 			// aapt resource value: 0x7f020114
-			public const int mr_button_dark = 2130837780;
+			public const int mr_button_connected_light = 2130837780;
 			
 			// aapt resource value: 0x7f020115
-			public const int mr_button_light = 2130837781;
+			public const int mr_button_connecting_dark = 2130837781;
 			
 			// aapt resource value: 0x7f020116
-			public const int mr_dialog_close_dark = 2130837782;
+			public const int mr_button_connecting_light = 2130837782;
 			
 			// aapt resource value: 0x7f020117
-			public const int mr_dialog_close_light = 2130837783;
+			public const int mr_button_dark = 2130837783;
 			
 			// aapt resource value: 0x7f020118
-			public const int mr_dialog_material_background_dark = 2130837784;
+			public const int mr_button_light = 2130837784;
 			
 			// aapt resource value: 0x7f020119
-			public const int mr_dialog_material_background_light = 2130837785;
+			public const int mr_dialog_close_dark = 2130837785;
 			
 			// aapt resource value: 0x7f02011a
-			public const int mr_group_collapse = 2130837786;
+			public const int mr_dialog_close_light = 2130837786;
 			
 			// aapt resource value: 0x7f02011b
-			public const int mr_group_expand = 2130837787;
+			public const int mr_dialog_material_background_dark = 2130837787;
 			
 			// aapt resource value: 0x7f02011c
-			public const int mr_media_pause_dark = 2130837788;
+			public const int mr_dialog_material_background_light = 2130837788;
 			
 			// aapt resource value: 0x7f02011d
-			public const int mr_media_pause_light = 2130837789;
+			public const int mr_group_collapse = 2130837789;
 			
 			// aapt resource value: 0x7f02011e
-			public const int mr_media_play_dark = 2130837790;
+			public const int mr_group_expand = 2130837790;
 			
 			// aapt resource value: 0x7f02011f
-			public const int mr_media_play_light = 2130837791;
+			public const int mr_media_pause_dark = 2130837791;
 			
 			// aapt resource value: 0x7f020120
-			public const int mr_media_stop_dark = 2130837792;
+			public const int mr_media_pause_light = 2130837792;
 			
 			// aapt resource value: 0x7f020121
-			public const int mr_media_stop_light = 2130837793;
+			public const int mr_media_play_dark = 2130837793;
 			
 			// aapt resource value: 0x7f020122
-			public const int mr_vol_type_audiotrack_dark = 2130837794;
+			public const int mr_media_play_light = 2130837794;
 			
 			// aapt resource value: 0x7f020123
-			public const int mr_vol_type_audiotrack_light = 2130837795;
+			public const int mr_media_stop_dark = 2130837795;
 			
 			// aapt resource value: 0x7f020124
-			public const int mtrl_snackbar_background = 2130837796;
+			public const int mr_media_stop_light = 2130837796;
 			
 			// aapt resource value: 0x7f020125
-			public const int mtrl_tabs_default_indicator = 2130837797;
+			public const int mr_vol_type_audiotrack_dark = 2130837797;
 			
 			// aapt resource value: 0x7f020126
-			public const int navigation_empty_icon = 2130837798;
+			public const int mr_vol_type_audiotrack_light = 2130837798;
 			
 			// aapt resource value: 0x7f020127
-			public const int notification_action_background = 2130837799;
+			public const int mtrl_snackbar_background = 2130837799;
 			
 			// aapt resource value: 0x7f020128
-			public const int notification_bg = 2130837800;
+			public const int mtrl_tabs_default_indicator = 2130837800;
 			
 			// aapt resource value: 0x7f020129
-			public const int notification_bg_low = 2130837801;
+			public const int navigation_empty_icon = 2130837801;
 			
 			// aapt resource value: 0x7f02012a
-			public const int notification_bg_low_normal = 2130837802;
+			public const int notification_action_background = 2130837802;
 			
 			// aapt resource value: 0x7f02012b
-			public const int notification_bg_low_pressed = 2130837803;
+			public const int notification_bg = 2130837803;
 			
 			// aapt resource value: 0x7f02012c
-			public const int notification_bg_normal = 2130837804;
+			public const int notification_bg_low = 2130837804;
 			
 			// aapt resource value: 0x7f02012d
-			public const int notification_bg_normal_pressed = 2130837805;
+			public const int notification_bg_low_normal = 2130837805;
 			
 			// aapt resource value: 0x7f02012e
-			public const int notification_icon_background = 2130837806;
-			
-			// aapt resource value: 0x7f020133
-			public const int notification_template_icon_bg = 2130837811;
-			
-			// aapt resource value: 0x7f020134
-			public const int notification_template_icon_low_bg = 2130837812;
+			public const int notification_bg_low_pressed = 2130837806;
 			
 			// aapt resource value: 0x7f02012f
-			public const int notification_tile_bg = 2130837807;
+			public const int notification_bg_normal = 2130837807;
 			
 			// aapt resource value: 0x7f020130
-			public const int notify_panel_notification_icon_bg = 2130837808;
+			public const int notification_bg_normal_pressed = 2130837808;
 			
 			// aapt resource value: 0x7f020131
-			public const int tooltip_frame_dark = 2130837809;
+			public const int notification_icon_background = 2130837809;
+			
+			// aapt resource value: 0x7f020138
+			public const int notification_template_icon_bg = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int notification_template_icon_low_bg = 2130837817;
 			
 			// aapt resource value: 0x7f020132
-			public const int tooltip_frame_light = 2130837810;
+			public const int notification_tile_bg = 2130837810;
+			
+			// aapt resource value: 0x7f020133
+			public const int notify_panel_notification_icon_bg = 2130837811;
+			
+			// aapt resource value: 0x7f020134
+			public const int sfclosebutton = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int styleinfo = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int tooltip_frame_dark = 2130837814;
+			
+			// aapt resource value: 0x7f020137
+			public const int tooltip_frame_light = 2130837815;
 			
 			static Drawable()
 			{
@@ -6491,6 +6761,9 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b003b
 			public const int FUNCTION = 2131427387;
 			
+			// aapt resource value: 0x7f0b00b2
+			public const int Itemname = 2131427506;
+			
 			// aapt resource value: 0x7f0b003c
 			public const int META = 2131427388;
 			
@@ -6500,41 +6773,41 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b003e
 			public const int SYM = 2131427390;
 			
-			// aapt resource value: 0x7f0b00e4
-			public const int action0 = 2131427556;
+			// aapt resource value: 0x7f0b00f3
+			public const int action0 = 2131427571;
 			
-			// aapt resource value: 0x7f0b008d
-			public const int action_bar = 2131427469;
+			// aapt resource value: 0x7f0b009b
+			public const int action_bar = 2131427483;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int action_bar_activity_content = 2131427329;
 			
-			// aapt resource value: 0x7f0b008c
-			public const int action_bar_container = 2131427468;
+			// aapt resource value: 0x7f0b009a
+			public const int action_bar_container = 2131427482;
 			
-			// aapt resource value: 0x7f0b0088
-			public const int action_bar_root = 2131427464;
+			// aapt resource value: 0x7f0b0096
+			public const int action_bar_root = 2131427478;
 			
 			// aapt resource value: 0x7f0b0002
 			public const int action_bar_spinner = 2131427330;
 			
-			// aapt resource value: 0x7f0b006a
-			public const int action_bar_subtitle = 2131427434;
+			// aapt resource value: 0x7f0b0079
+			public const int action_bar_subtitle = 2131427449;
 			
-			// aapt resource value: 0x7f0b0069
-			public const int action_bar_title = 2131427433;
+			// aapt resource value: 0x7f0b0078
+			public const int action_bar_title = 2131427448;
 			
-			// aapt resource value: 0x7f0b00e1
-			public const int action_container = 2131427553;
+			// aapt resource value: 0x7f0b00f0
+			public const int action_container = 2131427568;
 			
-			// aapt resource value: 0x7f0b008e
-			public const int action_context_bar = 2131427470;
+			// aapt resource value: 0x7f0b009c
+			public const int action_context_bar = 2131427484;
 			
-			// aapt resource value: 0x7f0b00e8
-			public const int action_divider = 2131427560;
+			// aapt resource value: 0x7f0b00f7
+			public const int action_divider = 2131427575;
 			
-			// aapt resource value: 0x7f0b00e2
-			public const int action_image = 2131427554;
+			// aapt resource value: 0x7f0b00f1
+			public const int action_image = 2131427569;
 			
 			// aapt resource value: 0x7f0b0003
 			public const int action_menu_divider = 2131427331;
@@ -6542,35 +6815,38 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0004
 			public const int action_menu_presenter = 2131427332;
 			
-			// aapt resource value: 0x7f0b008a
-			public const int action_mode_bar = 2131427466;
+			// aapt resource value: 0x7f0b0098
+			public const int action_mode_bar = 2131427480;
 			
-			// aapt resource value: 0x7f0b0089
-			public const int action_mode_bar_stub = 2131427465;
+			// aapt resource value: 0x7f0b0097
+			public const int action_mode_bar_stub = 2131427479;
 			
-			// aapt resource value: 0x7f0b006b
-			public const int action_mode_close_button = 2131427435;
+			// aapt resource value: 0x7f0b007a
+			public const int action_mode_close_button = 2131427450;
 			
-			// aapt resource value: 0x7f0b00e3
-			public const int action_text = 2131427555;
+			// aapt resource value: 0x7f0b00f2
+			public const int action_text = 2131427570;
 			
-			// aapt resource value: 0x7f0b00f1
-			public const int actions = 2131427569;
+			// aapt resource value: 0x7f0b0100
+			public const int actions = 2131427584;
 			
-			// aapt resource value: 0x7f0b006c
-			public const int activity_chooser_view_content = 2131427436;
+			// aapt resource value: 0x7f0b007b
+			public const int activity_chooser_view_content = 2131427451;
 			
 			// aapt resource value: 0x7f0b002e
 			public const int add = 2131427374;
 			
-			// aapt resource value: 0x7f0b007f
-			public const int alertTitle = 2131427455;
+			// aapt resource value: 0x7f0b008d
+			public const int alertTitle = 2131427469;
 			
 			// aapt resource value: 0x7f0b0064
 			public const int all = 2131427428;
 			
 			// aapt resource value: 0x7f0b003f
 			public const int always = 2131427391;
+			
+			// aapt resource value: 0x7f0b0075
+			public const int append = 2131427445;
 			
 			// aapt resource value: 0x7f0b0065
 			public const int async = 2131427429;
@@ -6587,32 +6863,32 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0044
 			public const int bottom = 2131427396;
 			
-			// aapt resource value: 0x7f0b009d
-			public const int bottomtab_navarea = 2131427485;
+			// aapt resource value: 0x7f0b00ab
+			public const int bottomtab_navarea = 2131427499;
 			
-			// aapt resource value: 0x7f0b009e
-			public const int bottomtab_tabbar = 2131427486;
+			// aapt resource value: 0x7f0b00ac
+			public const int bottomtab_tabbar = 2131427500;
 			
-			// aapt resource value: 0x7f0b00a0
-			public const int browser_actions_header_text = 2131427488;
+			// aapt resource value: 0x7f0b00ae
+			public const int browser_actions_header_text = 2131427502;
 			
-			// aapt resource value: 0x7f0b00a2
-			public const int browser_actions_menu_item_icon = 2131427490;
+			// aapt resource value: 0x7f0b00b0
+			public const int browser_actions_menu_item_icon = 2131427504;
 			
-			// aapt resource value: 0x7f0b00a3
-			public const int browser_actions_menu_item_text = 2131427491;
+			// aapt resource value: 0x7f0b00b1
+			public const int browser_actions_menu_item_text = 2131427505;
 			
-			// aapt resource value: 0x7f0b00a1
-			public const int browser_actions_menu_items = 2131427489;
+			// aapt resource value: 0x7f0b00af
+			public const int browser_actions_menu_items = 2131427503;
 			
-			// aapt resource value: 0x7f0b009f
-			public const int browser_actions_menu_view = 2131427487;
+			// aapt resource value: 0x7f0b00ad
+			public const int browser_actions_menu_view = 2131427501;
 			
-			// aapt resource value: 0x7f0b0072
-			public const int buttonPanel = 2131427442;
+			// aapt resource value: 0x7f0b0081
+			public const int buttonPanel = 2131427457;
 			
-			// aapt resource value: 0x7f0b00e5
-			public const int cancel_action = 2131427557;
+			// aapt resource value: 0x7f0b00f4
+			public const int cancel_action = 2131427572;
 			
 			// aapt resource value: 0x7f0b004c
 			public const int center = 2131427404;
@@ -6623,11 +6899,11 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0052
 			public const int center_vertical = 2131427410;
 			
-			// aapt resource value: 0x7f0b0086
-			public const int checkbox = 2131427462;
+			// aapt resource value: 0x7f0b0094
+			public const int checkbox = 2131427476;
 			
-			// aapt resource value: 0x7f0b00ed
-			public const int chronometer = 2131427565;
+			// aapt resource value: 0x7f0b00fc
+			public const int chronometer = 2131427580;
 			
 			// aapt resource value: 0x7f0b0061
 			public const int clip_horizontal = 2131427425;
@@ -6638,56 +6914,71 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0040
 			public const int collapseActionView = 2131427392;
 			
-			// aapt resource value: 0x7f0b00a6
-			public const int container = 2131427494;
+			// aapt resource value: 0x7f0b00b5
+			public const int container = 2131427509;
 			
-			// aapt resource value: 0x7f0b0082
-			public const int content = 2131427458;
+			// aapt resource value: 0x7f0b0069
+			public const int contains = 2131427433;
 			
-			// aapt resource value: 0x7f0b0075
-			public const int contentPanel = 2131427445;
+			// aapt resource value: 0x7f0b006a
+			public const int containsWithCaseSensitive = 2131427434;
 			
-			// aapt resource value: 0x7f0b00a7
-			public const int coordinator = 2131427495;
+			// aapt resource value: 0x7f0b0090
+			public const int content = 2131427472;
 			
-			// aapt resource value: 0x7f0b007c
-			public const int custom = 2131427452;
+			// aapt resource value: 0x7f0b0084
+			public const int contentPanel = 2131427460;
 			
-			// aapt resource value: 0x7f0b007b
-			public const int customPanel = 2131427451;
+			// aapt resource value: 0x7f0b00b6
+			public const int coordinator = 2131427510;
 			
-			// aapt resource value: 0x7f0b008b
-			public const int decor_content_parent = 2131427467;
+			// aapt resource value: 0x7f0b006b
+			public const int custom = 2131427435;
 			
-			// aapt resource value: 0x7f0b006f
-			public const int default_activity_button = 2131427439;
+			// aapt resource value: 0x7f0b008a
+			public const int customPanel = 2131427466;
 			
-			// aapt resource value: 0x7f0b00a9
-			public const int design_bottom_sheet = 2131427497;
+			// aapt resource value: 0x7f0b0099
+			public const int decor_content_parent = 2131427481;
 			
-			// aapt resource value: 0x7f0b00ae
-			public const int design_menu_item_action_area = 2131427502;
+			// aapt resource value: 0x7f0b007e
+			public const int default_activity_button = 2131427454;
 			
-			// aapt resource value: 0x7f0b00ad
-			public const int design_menu_item_action_area_stub = 2131427501;
+			// aapt resource value: 0x7f0b0073
+			public const int delimiter = 2131427443;
 			
-			// aapt resource value: 0x7f0b00ac
-			public const int design_menu_item_text = 2131427500;
+			// aapt resource value: 0x7f0b00b8
+			public const int design_bottom_sheet = 2131427512;
 			
-			// aapt resource value: 0x7f0b00ab
-			public const int design_navigation_view = 2131427499;
+			// aapt resource value: 0x7f0b00bd
+			public const int design_menu_item_action_area = 2131427517;
+			
+			// aapt resource value: 0x7f0b00bc
+			public const int design_menu_item_action_area_stub = 2131427516;
+			
+			// aapt resource value: 0x7f0b00bb
+			public const int design_menu_item_text = 2131427515;
+			
+			// aapt resource value: 0x7f0b00ba
+			public const int design_navigation_view = 2131427514;
 			
 			// aapt resource value: 0x7f0b0027
 			public const int disableHome = 2131427367;
 			
-			// aapt resource value: 0x7f0b008f
-			public const int edit_query = 2131427471;
+			// aapt resource value: 0x7f0b009d
+			public const int edit_query = 2131427485;
 			
 			// aapt resource value: 0x7f0b0037
 			public const int end = 2131427383;
 			
-			// aapt resource value: 0x7f0b00f3
-			public const int end_padder = 2131427571;
+			// aapt resource value: 0x7f0b0102
+			public const int end_padder = 2131427586;
+			
+			// aapt resource value: 0x7f0b006c
+			public const int endsWith = 2131427436;
+			
+			// aapt resource value: 0x7f0b006d
+			public const int endsWithCaseSensitive = 2131427437;
 			
 			// aapt resource value: 0x7f0b0046
 			public const int enterAlways = 2131427398;
@@ -6695,14 +6986,20 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0047
 			public const int enterAlwaysCollapsed = 2131427399;
 			
+			// aapt resource value: 0x7f0b006e
+			public const int equals = 2131427438;
+			
+			// aapt resource value: 0x7f0b006f
+			public const int equalsWithCaseSensitive = 2131427439;
+			
 			// aapt resource value: 0x7f0b0048
 			public const int exitUntilCollapsed = 2131427400;
 			
-			// aapt resource value: 0x7f0b006d
-			public const int expand_activities_button = 2131427437;
+			// aapt resource value: 0x7f0b007c
+			public const int expand_activities_button = 2131427452;
 			
-			// aapt resource value: 0x7f0b0085
-			public const int expanded_menu = 2131427461;
+			// aapt resource value: 0x7f0b0093
+			public const int expanded_menu = 2131427475;
 			
 			// aapt resource value: 0x7f0b005e
 			public const int fill = 2131427422;
@@ -6719,11 +7016,11 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b005c
 			public const int @fixed = 2131427420;
 			
-			// aapt resource value: 0x7f0b00b0
-			public const int flyoutcontent_appbar = 2131427504;
+			// aapt resource value: 0x7f0b00bf
+			public const int flyoutcontent_appbar = 2131427519;
 			
-			// aapt resource value: 0x7f0b00b1
-			public const int flyoutcontent_recycler = 2131427505;
+			// aapt resource value: 0x7f0b00c0
+			public const int flyoutcontent_recycler = 2131427520;
 			
 			// aapt resource value: 0x7f0b0067
 			public const int forever = 2131427431;
@@ -6731,8 +7028,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b000a
 			public const int ghost_view = 2131427338;
 			
-			// aapt resource value: 0x7f0b0081
-			public const int group_divider = 2131427457;
+			// aapt resource value: 0x7f0b008f
+			public const int group_divider = 2131427471;
 			
 			// aapt resource value: 0x7f0b0005
 			public const int home = 2131427333;
@@ -6740,20 +7037,20 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0028
 			public const int homeAsUp = 2131427368;
 			
-			// aapt resource value: 0x7f0b0071
-			public const int icon = 2131427441;
+			// aapt resource value: 0x7f0b0080
+			public const int icon = 2131427456;
 			
-			// aapt resource value: 0x7f0b00f2
-			public const int icon_group = 2131427570;
+			// aapt resource value: 0x7f0b0101
+			public const int icon_group = 2131427585;
 			
 			// aapt resource value: 0x7f0b0041
 			public const int ifRoom = 2131427393;
 			
-			// aapt resource value: 0x7f0b006e
-			public const int image = 2131427438;
+			// aapt resource value: 0x7f0b007d
+			public const int image = 2131427453;
 			
-			// aapt resource value: 0x7f0b00ee
-			public const int info = 2131427566;
+			// aapt resource value: 0x7f0b00fd
+			public const int info = 2131427581;
 			
 			// aapt resource value: 0x7f0b0068
 			public const int italic = 2131427432;
@@ -6764,8 +7061,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b004e
 			public const int labeled = 2131427406;
 			
-			// aapt resource value: 0x7f0b00a5
-			public const int largeLabel = 2131427493;
+			// aapt resource value: 0x7f0b00b4
+			public const int largeLabel = 2131427508;
 			
 			// aapt resource value: 0x7f0b0054
 			public const int left = 2131427412;
@@ -6779,29 +7076,29 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0024
 			public const int listMode = 2131427364;
 			
-			// aapt resource value: 0x7f0b0070
-			public const int list_item = 2131427440;
+			// aapt resource value: 0x7f0b007f
+			public const int list_item = 2131427455;
 			
-			// aapt resource value: 0x7f0b00f4
-			public const int main_appbar = 2131427572;
+			// aapt resource value: 0x7f0b0103
+			public const int main_appbar = 2131427587;
 			
-			// aapt resource value: 0x7f0b00f7
-			public const int main_scrollview = 2131427575;
+			// aapt resource value: 0x7f0b0106
+			public const int main_scrollview = 2131427590;
+			
+			// aapt resource value: 0x7f0b0105
+			public const int main_tablayout = 2131427589;
+			
+			// aapt resource value: 0x7f0b0104
+			public const int main_toolbar = 2131427588;
+			
+			// aapt resource value: 0x7f0b010d
+			public const int masked = 2131427597;
 			
 			// aapt resource value: 0x7f0b00f6
-			public const int main_tablayout = 2131427574;
+			public const int media_actions = 2131427574;
 			
-			// aapt resource value: 0x7f0b00f5
-			public const int main_toolbar = 2131427573;
-			
-			// aapt resource value: 0x7f0b00fe
-			public const int masked = 2131427582;
-			
-			// aapt resource value: 0x7f0b00e7
-			public const int media_actions = 2131427559;
-			
-			// aapt resource value: 0x7f0b009c
-			public const int message = 2131427484;
+			// aapt resource value: 0x7f0b00aa
+			public const int message = 2131427498;
 			
 			// aapt resource value: 0x7f0b0038
 			public const int middle = 2131427384;
@@ -6809,143 +7106,143 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0059
 			public const int mini = 2131427417;
 			
-			// aapt resource value: 0x7f0b00ce
-			public const int mr_art = 2131427534;
-			
-			// aapt resource value: 0x7f0b00bf
-			public const int mr_cast_checkbox = 2131427519;
-			
-			// aapt resource value: 0x7f0b00b8
-			public const int mr_cast_close_button = 2131427512;
-			
-			// aapt resource value: 0x7f0b00b3
-			public const int mr_cast_group_icon = 2131427507;
-			
-			// aapt resource value: 0x7f0b00b4
-			public const int mr_cast_group_name = 2131427508;
-			
-			// aapt resource value: 0x7f0b00b2
-			public const int mr_cast_list = 2131427506;
-			
-			// aapt resource value: 0x7f0b00b7
-			public const int mr_cast_meta = 2131427511;
-			
-			// aapt resource value: 0x7f0b00b9
-			public const int mr_cast_meta_art = 2131427513;
-			
-			// aapt resource value: 0x7f0b00bb
-			public const int mr_cast_meta_subtitle = 2131427515;
-			
-			// aapt resource value: 0x7f0b00ba
-			public const int mr_cast_meta_title = 2131427514;
-			
-			// aapt resource value: 0x7f0b00bd
-			public const int mr_cast_route_icon = 2131427517;
-			
-			// aapt resource value: 0x7f0b00be
-			public const int mr_cast_route_name = 2131427518;
-			
-			// aapt resource value: 0x7f0b00bc
-			public const int mr_cast_stop_button = 2131427516;
-			
-			// aapt resource value: 0x7f0b00c0
-			public const int mr_cast_volume_layout = 2131427520;
-			
-			// aapt resource value: 0x7f0b00c1
-			public const int mr_cast_volume_slider = 2131427521;
-			
-			// aapt resource value: 0x7f0b00c3
-			public const int mr_chooser_list = 2131427523;
-			
-			// aapt resource value: 0x7f0b00c6
-			public const int mr_chooser_route_desc = 2131427526;
-			
-			// aapt resource value: 0x7f0b00c4
-			public const int mr_chooser_route_icon = 2131427524;
-			
-			// aapt resource value: 0x7f0b00c5
-			public const int mr_chooser_route_name = 2131427525;
-			
-			// aapt resource value: 0x7f0b00c2
-			public const int mr_chooser_title = 2131427522;
-			
-			// aapt resource value: 0x7f0b00cb
-			public const int mr_close = 2131427531;
-			
-			// aapt resource value: 0x7f0b00d1
-			public const int mr_control_divider = 2131427537;
-			
-			// aapt resource value: 0x7f0b00dc
-			public const int mr_control_playback_ctrl = 2131427548;
-			
-			// aapt resource value: 0x7f0b00df
-			public const int mr_control_subtitle = 2131427551;
-			
-			// aapt resource value: 0x7f0b00de
-			public const int mr_control_title = 2131427550;
-			
 			// aapt resource value: 0x7f0b00dd
-			public const int mr_control_title_container = 2131427549;
+			public const int mr_art = 2131427549;
 			
-			// aapt resource value: 0x7f0b00cc
-			public const int mr_custom_control = 2131427532;
-			
-			// aapt resource value: 0x7f0b00cd
-			public const int mr_default_control = 2131427533;
-			
-			// aapt resource value: 0x7f0b00c8
-			public const int mr_dialog_area = 2131427528;
-			
-			// aapt resource value: 0x7f0b00d7
-			public const int mr_dialog_header_name = 2131427543;
+			// aapt resource value: 0x7f0b00ce
+			public const int mr_cast_checkbox = 2131427534;
 			
 			// aapt resource value: 0x7f0b00c7
-			public const int mr_expandable_area = 2131427527;
+			public const int mr_cast_close_button = 2131427527;
 			
-			// aapt resource value: 0x7f0b00e0
-			public const int mr_group_expand_collapse = 2131427552;
+			// aapt resource value: 0x7f0b00c2
+			public const int mr_cast_group_icon = 2131427522;
 			
-			// aapt resource value: 0x7f0b00b5
-			public const int mr_group_volume_route_name = 2131427509;
+			// aapt resource value: 0x7f0b00c3
+			public const int mr_cast_group_name = 2131427523;
 			
-			// aapt resource value: 0x7f0b00b6
-			public const int mr_group_volume_slider = 2131427510;
+			// aapt resource value: 0x7f0b00c1
+			public const int mr_cast_list = 2131427521;
 			
-			// aapt resource value: 0x7f0b00cf
-			public const int mr_media_main_control = 2131427535;
+			// aapt resource value: 0x7f0b00c6
+			public const int mr_cast_meta = 2131427526;
+			
+			// aapt resource value: 0x7f0b00c8
+			public const int mr_cast_meta_art = 2131427528;
 			
 			// aapt resource value: 0x7f0b00ca
-			public const int mr_name = 2131427530;
-			
-			// aapt resource value: 0x7f0b00d8
-			public const int mr_picker_close_button = 2131427544;
-			
-			// aapt resource value: 0x7f0b00d9
-			public const int mr_picker_list = 2131427545;
-			
-			// aapt resource value: 0x7f0b00da
-			public const int mr_picker_route_icon = 2131427546;
-			
-			// aapt resource value: 0x7f0b00db
-			public const int mr_picker_route_name = 2131427547;
-			
-			// aapt resource value: 0x7f0b00d0
-			public const int mr_playback_control = 2131427536;
+			public const int mr_cast_meta_subtitle = 2131427530;
 			
 			// aapt resource value: 0x7f0b00c9
-			public const int mr_title_bar = 2131427529;
+			public const int mr_cast_meta_title = 2131427529;
+			
+			// aapt resource value: 0x7f0b00cc
+			public const int mr_cast_route_icon = 2131427532;
+			
+			// aapt resource value: 0x7f0b00cd
+			public const int mr_cast_route_name = 2131427533;
+			
+			// aapt resource value: 0x7f0b00cb
+			public const int mr_cast_stop_button = 2131427531;
+			
+			// aapt resource value: 0x7f0b00cf
+			public const int mr_cast_volume_layout = 2131427535;
+			
+			// aapt resource value: 0x7f0b00d0
+			public const int mr_cast_volume_slider = 2131427536;
 			
 			// aapt resource value: 0x7f0b00d2
-			public const int mr_volume_control = 2131427538;
-			
-			// aapt resource value: 0x7f0b00d3
-			public const int mr_volume_group_list = 2131427539;
+			public const int mr_chooser_list = 2131427538;
 			
 			// aapt resource value: 0x7f0b00d5
-			public const int mr_volume_item_icon = 2131427541;
+			public const int mr_chooser_route_desc = 2131427541;
+			
+			// aapt resource value: 0x7f0b00d3
+			public const int mr_chooser_route_icon = 2131427539;
+			
+			// aapt resource value: 0x7f0b00d4
+			public const int mr_chooser_route_name = 2131427540;
+			
+			// aapt resource value: 0x7f0b00d1
+			public const int mr_chooser_title = 2131427537;
+			
+			// aapt resource value: 0x7f0b00da
+			public const int mr_close = 2131427546;
+			
+			// aapt resource value: 0x7f0b00e0
+			public const int mr_control_divider = 2131427552;
+			
+			// aapt resource value: 0x7f0b00eb
+			public const int mr_control_playback_ctrl = 2131427563;
+			
+			// aapt resource value: 0x7f0b00ee
+			public const int mr_control_subtitle = 2131427566;
+			
+			// aapt resource value: 0x7f0b00ed
+			public const int mr_control_title = 2131427565;
+			
+			// aapt resource value: 0x7f0b00ec
+			public const int mr_control_title_container = 2131427564;
+			
+			// aapt resource value: 0x7f0b00db
+			public const int mr_custom_control = 2131427547;
+			
+			// aapt resource value: 0x7f0b00dc
+			public const int mr_default_control = 2131427548;
+			
+			// aapt resource value: 0x7f0b00d7
+			public const int mr_dialog_area = 2131427543;
+			
+			// aapt resource value: 0x7f0b00e6
+			public const int mr_dialog_header_name = 2131427558;
 			
 			// aapt resource value: 0x7f0b00d6
-			public const int mr_volume_slider = 2131427542;
+			public const int mr_expandable_area = 2131427542;
+			
+			// aapt resource value: 0x7f0b00ef
+			public const int mr_group_expand_collapse = 2131427567;
+			
+			// aapt resource value: 0x7f0b00c4
+			public const int mr_group_volume_route_name = 2131427524;
+			
+			// aapt resource value: 0x7f0b00c5
+			public const int mr_group_volume_slider = 2131427525;
+			
+			// aapt resource value: 0x7f0b00de
+			public const int mr_media_main_control = 2131427550;
+			
+			// aapt resource value: 0x7f0b00d9
+			public const int mr_name = 2131427545;
+			
+			// aapt resource value: 0x7f0b00e7
+			public const int mr_picker_close_button = 2131427559;
+			
+			// aapt resource value: 0x7f0b00e8
+			public const int mr_picker_list = 2131427560;
+			
+			// aapt resource value: 0x7f0b00e9
+			public const int mr_picker_route_icon = 2131427561;
+			
+			// aapt resource value: 0x7f0b00ea
+			public const int mr_picker_route_name = 2131427562;
+			
+			// aapt resource value: 0x7f0b00df
+			public const int mr_playback_control = 2131427551;
+			
+			// aapt resource value: 0x7f0b00d8
+			public const int mr_title_bar = 2131427544;
+			
+			// aapt resource value: 0x7f0b00e1
+			public const int mr_volume_control = 2131427553;
+			
+			// aapt resource value: 0x7f0b00e2
+			public const int mr_volume_group_list = 2131427554;
+			
+			// aapt resource value: 0x7f0b00e4
+			public const int mr_volume_item_icon = 2131427556;
+			
+			// aapt resource value: 0x7f0b00e5
+			public const int mr_volume_slider = 2131427557;
 			
 			// aapt resource value: 0x7f0b0014
 			public const int mtrl_child_content_container = 2131427348;
@@ -6956,8 +7253,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b002f
 			public const int multiply = 2131427375;
 			
-			// aapt resource value: 0x7f0b00aa
-			public const int navigation_header_container = 2131427498;
+			// aapt resource value: 0x7f0b00b9
+			public const int navigation_header_container = 2131427513;
 			
 			// aapt resource value: 0x7f0b0042
 			public const int never = 2131427394;
@@ -6968,14 +7265,14 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0025
 			public const int normal = 2131427365;
 			
-			// aapt resource value: 0x7f0b00f0
-			public const int notification_background = 2131427568;
+			// aapt resource value: 0x7f0b00ff
+			public const int notification_background = 2131427583;
 			
-			// aapt resource value: 0x7f0b00ea
-			public const int notification_main_column = 2131427562;
+			// aapt resource value: 0x7f0b00f9
+			public const int notification_main_column = 2131427577;
 			
-			// aapt resource value: 0x7f0b00e9
-			public const int notification_main_column_container = 2131427561;
+			// aapt resource value: 0x7f0b00f8
+			public const int notification_main_column_container = 2131427576;
 			
 			// aapt resource value: 0x7f0b0060
 			public const int outline = 2131427424;
@@ -6983,8 +7280,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0057
 			public const int parallax = 2131427415;
 			
-			// aapt resource value: 0x7f0b0074
-			public const int parentPanel = 2131427444;
+			// aapt resource value: 0x7f0b0083
+			public const int parentPanel = 2131427459;
 			
 			// aapt resource value: 0x7f0b000b
 			public const int parent_matrix = 2131427339;
@@ -6998,17 +7295,17 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0007
 			public const int progress_horizontal = 2131427335;
 			
-			// aapt resource value: 0x7f0b0087
-			public const int radio = 2131427463;
+			// aapt resource value: 0x7f0b0095
+			public const int radio = 2131427477;
 			
 			// aapt resource value: 0x7f0b0055
 			public const int right = 2131427413;
 			
-			// aapt resource value: 0x7f0b00ef
-			public const int right_icon = 2131427567;
+			// aapt resource value: 0x7f0b00fe
+			public const int right_icon = 2131427582;
 			
-			// aapt resource value: 0x7f0b00eb
-			public const int right_side = 2131427563;
+			// aapt resource value: 0x7f0b00fa
+			public const int right_side = 2131427578;
 			
 			// aapt resource value: 0x7f0b000c
 			public const int save_image_matrix = 2131427340;
@@ -7025,65 +7322,65 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0049
 			public const int scroll = 2131427401;
 			
-			// aapt resource value: 0x7f0b007a
-			public const int scrollIndicatorDown = 2131427450;
+			// aapt resource value: 0x7f0b0089
+			public const int scrollIndicatorDown = 2131427465;
 			
-			// aapt resource value: 0x7f0b0076
-			public const int scrollIndicatorUp = 2131427446;
+			// aapt resource value: 0x7f0b0085
+			public const int scrollIndicatorUp = 2131427461;
 			
-			// aapt resource value: 0x7f0b0077
-			public const int scrollView = 2131427447;
+			// aapt resource value: 0x7f0b0086
+			public const int scrollView = 2131427462;
 			
 			// aapt resource value: 0x7f0b005d
 			public const int scrollable = 2131427421;
 			
-			// aapt resource value: 0x7f0b0091
-			public const int search_badge = 2131427473;
+			// aapt resource value: 0x7f0b009f
+			public const int search_badge = 2131427487;
 			
-			// aapt resource value: 0x7f0b0090
-			public const int search_bar = 2131427472;
+			// aapt resource value: 0x7f0b009e
+			public const int search_bar = 2131427486;
 			
-			// aapt resource value: 0x7f0b0092
-			public const int search_button = 2131427474;
+			// aapt resource value: 0x7f0b00a0
+			public const int search_button = 2131427488;
 			
-			// aapt resource value: 0x7f0b0097
-			public const int search_close_btn = 2131427479;
+			// aapt resource value: 0x7f0b00a5
+			public const int search_close_btn = 2131427493;
 			
-			// aapt resource value: 0x7f0b0093
-			public const int search_edit_frame = 2131427475;
+			// aapt resource value: 0x7f0b00a1
+			public const int search_edit_frame = 2131427489;
 			
-			// aapt resource value: 0x7f0b0099
-			public const int search_go_btn = 2131427481;
+			// aapt resource value: 0x7f0b00a7
+			public const int search_go_btn = 2131427495;
 			
-			// aapt resource value: 0x7f0b0094
-			public const int search_mag_icon = 2131427476;
+			// aapt resource value: 0x7f0b00a2
+			public const int search_mag_icon = 2131427490;
 			
-			// aapt resource value: 0x7f0b0095
-			public const int search_plate = 2131427477;
+			// aapt resource value: 0x7f0b00a3
+			public const int search_plate = 2131427491;
 			
-			// aapt resource value: 0x7f0b0096
-			public const int search_src_text = 2131427478;
+			// aapt resource value: 0x7f0b00a4
+			public const int search_src_text = 2131427492;
 			
-			// aapt resource value: 0x7f0b009a
-			public const int search_voice_btn = 2131427482;
+			// aapt resource value: 0x7f0b00a8
+			public const int search_voice_btn = 2131427496;
 			
-			// aapt resource value: 0x7f0b009b
-			public const int select_dialog_listview = 2131427483;
+			// aapt resource value: 0x7f0b00a9
+			public const int select_dialog_listview = 2131427497;
 			
 			// aapt resource value: 0x7f0b004f
 			public const int selected = 2131427407;
 			
-			// aapt resource value: 0x7f0b00f8
-			public const int shellcontent_appbar = 2131427576;
+			// aapt resource value: 0x7f0b0107
+			public const int shellcontent_appbar = 2131427591;
 			
-			// aapt resource value: 0x7f0b00fa
-			public const int shellcontent_scrollview = 2131427578;
+			// aapt resource value: 0x7f0b0109
+			public const int shellcontent_scrollview = 2131427593;
 			
-			// aapt resource value: 0x7f0b00f9
-			public const int shellcontent_toolbar = 2131427577;
+			// aapt resource value: 0x7f0b0108
+			public const int shellcontent_toolbar = 2131427592;
 			
-			// aapt resource value: 0x7f0b0083
-			public const int shortcut = 2131427459;
+			// aapt resource value: 0x7f0b0091
+			public const int shortcut = 2131427473;
 			
 			// aapt resource value: 0x7f0b002a
 			public const int showCustom = 2131427370;
@@ -7094,11 +7391,11 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b002c
 			public const int showTitle = 2131427372;
 			
-			// aapt resource value: 0x7f0b00fb
-			public const int sliding_tabs = 2131427579;
+			// aapt resource value: 0x7f0b010a
+			public const int sliding_tabs = 2131427594;
 			
-			// aapt resource value: 0x7f0b00a4
-			public const int smallLabel = 2131427492;
+			// aapt resource value: 0x7f0b00b3
+			public const int smallLabel = 2131427507;
 			
 			// aapt resource value: 0x7f0b0016
 			public const int snackbar_action = 2131427350;
@@ -7112,8 +7409,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b004b
 			public const int snapMargins = 2131427403;
 			
-			// aapt resource value: 0x7f0b0073
-			public const int spacer = 2131427443;
+			// aapt resource value: 0x7f0b0082
+			public const int spacer = 2131427458;
 			
 			// aapt resource value: 0x7f0b0008
 			public const int split_action_bar = 2131427336;
@@ -7130,17 +7427,29 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0056
 			public const int start = 2131427414;
 			
-			// aapt resource value: 0x7f0b00e6
-			public const int status_bar_latest_event_content = 2131427558;
+			// aapt resource value: 0x7f0b0070
+			public const int startsWith = 2131427440;
+			
+			// aapt resource value: 0x7f0b0071
+			public const int startsWithCaseSensitive = 2131427441;
+			
+			// aapt resource value: 0x7f0b00f5
+			public const int status_bar_latest_event_content = 2131427573;
 			
 			// aapt resource value: 0x7f0b005b
 			public const int stretch = 2131427419;
 			
-			// aapt resource value: 0x7f0b0084
-			public const int submenuarrow = 2131427460;
+			// aapt resource value: 0x7f0b0092
+			public const int submenuarrow = 2131427474;
 			
-			// aapt resource value: 0x7f0b0098
-			public const int submit_area = 2131427480;
+			// aapt resource value: 0x7f0b00a6
+			public const int submit_area = 2131427494;
+			
+			// aapt resource value: 0x7f0b0076
+			public const int suggest = 2131427446;
+			
+			// aapt resource value: 0x7f0b0077
+			public const int suggestAppend = 2131427447;
 			
 			// aapt resource value: 0x7f0b0026
 			public const int tabMode = 2131427366;
@@ -7160,17 +7469,17 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b0022
 			public const int text2 = 2131427362;
 			
-			// aapt resource value: 0x7f0b0079
-			public const int textSpacerNoButtons = 2131427449;
+			// aapt resource value: 0x7f0b0088
+			public const int textSpacerNoButtons = 2131427464;
 			
-			// aapt resource value: 0x7f0b0078
-			public const int textSpacerNoTitle = 2131427448;
+			// aapt resource value: 0x7f0b0087
+			public const int textSpacerNoTitle = 2131427463;
 			
 			// aapt resource value: 0x7f0b005a
 			public const int textStart = 2131427418;
 			
-			// aapt resource value: 0x7f0b00af
-			public const int text_input_password_toggle = 2131427503;
+			// aapt resource value: 0x7f0b00be
+			public const int text_input_password_toggle = 2131427518;
 			
 			// aapt resource value: 0x7f0b0018
 			public const int textinput_counter = 2131427352;
@@ -7181,29 +7490,32 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b001a
 			public const int textinput_helper_text = 2131427354;
 			
-			// aapt resource value: 0x7f0b00ec
-			public const int time = 2131427564;
+			// aapt resource value: 0x7f0b00fb
+			public const int time = 2131427579;
 			
 			// aapt resource value: 0x7f0b0023
 			public const int title = 2131427363;
 			
-			// aapt resource value: 0x7f0b0080
-			public const int titleDividerNoCustom = 2131427456;
+			// aapt resource value: 0x7f0b008e
+			public const int titleDividerNoCustom = 2131427470;
 			
-			// aapt resource value: 0x7f0b007e
-			public const int title_template = 2131427454;
+			// aapt resource value: 0x7f0b008c
+			public const int title_template = 2131427468;
 			
-			// aapt resource value: 0x7f0b00fc
-			public const int toolbar = 2131427580;
+			// aapt resource value: 0x7f0b0074
+			public const int token = 2131427444;
+			
+			// aapt resource value: 0x7f0b010b
+			public const int toolbar = 2131427595;
 			
 			// aapt resource value: 0x7f0b0045
 			public const int top = 2131427397;
 			
-			// aapt resource value: 0x7f0b007d
-			public const int topPanel = 2131427453;
+			// aapt resource value: 0x7f0b008b
+			public const int topPanel = 2131427467;
 			
-			// aapt resource value: 0x7f0b00a8
-			public const int touch_outside = 2131427496;
+			// aapt resource value: 0x7f0b00b7
+			public const int touch_outside = 2131427511;
 			
 			// aapt resource value: 0x7f0b000f
 			public const int transition_current_scene = 2131427343;
@@ -7235,14 +7547,17 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7f0b001b
 			public const int view_offset_helper = 2131427355;
 			
-			// aapt resource value: 0x7f0b00fd
-			public const int visible = 2131427581;
+			// aapt resource value: 0x7f0b010c
+			public const int visible = 2131427596;
 			
-			// aapt resource value: 0x7f0b00d4
-			public const int volume_item_container = 2131427540;
+			// aapt resource value: 0x7f0b00e3
+			public const int volume_item_container = 2131427555;
 			
 			// aapt resource value: 0x7f0b0043
 			public const int withText = 2131427395;
+			
+			// aapt resource value: 0x7f0b0072
+			public const int wrap = 2131427442;
 			
 			// aapt resource value: 0x7f0b0035
 			public const int wrap_content = 2131427381;
@@ -7455,166 +7770,175 @@ namespace Amibopedia.Droid
 			public const int browser_actions_context_menu_row = 2130968606;
 			
 			// aapt resource value: 0x7f04001f
-			public const int design_bottom_navigation_item = 2130968607;
+			public const int CustomizedView = 2130968607;
 			
 			// aapt resource value: 0x7f040020
-			public const int design_bottom_sheet_dialog = 2130968608;
+			public const int CustomizedView1 = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int design_layout_snackbar = 2130968609;
+			public const int design_bottom_navigation_item = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int design_layout_snackbar_include = 2130968610;
+			public const int design_bottom_sheet_dialog = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int design_layout_tab_icon = 2130968611;
+			public const int design_layout_snackbar = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int design_layout_tab_text = 2130968612;
+			public const int design_layout_snackbar_include = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int design_menu_item_action_area = 2130968613;
+			public const int design_layout_tab_icon = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int design_navigation_item = 2130968614;
+			public const int design_layout_tab_text = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int design_navigation_item_header = 2130968615;
+			public const int design_menu_item_action_area = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int design_navigation_item_separator = 2130968616;
+			public const int design_navigation_item = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int design_navigation_item_subheader = 2130968617;
+			public const int design_navigation_item_header = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int design_navigation_menu = 2130968618;
+			public const int design_navigation_item_separator = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int design_navigation_menu_item = 2130968619;
+			public const int design_navigation_item_subheader = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int design_text_input_password_icon = 2130968620;
+			public const int design_navigation_menu = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int FlyoutContent = 2130968621;
+			public const int design_navigation_menu_item = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int mr_cast_dialog = 2130968622;
+			public const int design_text_input_password_icon = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int mr_cast_group_item = 2130968623;
+			public const int FlyoutContent = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int mr_cast_group_volume_item = 2130968624;
+			public const int mr_cast_dialog = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int mr_cast_media_metadata = 2130968625;
+			public const int mr_cast_group_item = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int mr_cast_route_item = 2130968626;
+			public const int mr_cast_group_volume_item = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int mr_chooser_dialog = 2130968627;
+			public const int mr_cast_media_metadata = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int mr_chooser_list_item = 2130968628;
+			public const int mr_cast_route_item = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int mr_controller_material_dialog_b = 2130968629;
+			public const int mr_chooser_dialog = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int mr_controller_volume_item = 2130968630;
+			public const int mr_chooser_list_item = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int mr_dialog_header_item = 2130968631;
+			public const int mr_controller_material_dialog_b = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int mr_picker_dialog = 2130968632;
+			public const int mr_controller_volume_item = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int mr_picker_route_item = 2130968633;
+			public const int mr_dialog_header_item = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int mr_playback_control = 2130968634;
+			public const int mr_picker_dialog = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int mr_volume_control = 2130968635;
+			public const int mr_picker_route_item = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int mtrl_layout_snackbar = 2130968636;
+			public const int mr_playback_control = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int mtrl_layout_snackbar_include = 2130968637;
+			public const int mr_volume_control = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int notification_action = 2130968638;
+			public const int mtrl_layout_snackbar = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int notification_action_tombstone = 2130968639;
+			public const int mtrl_layout_snackbar_include = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int notification_media_action = 2130968640;
+			public const int notification_action = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int notification_media_cancel_action = 2130968641;
+			public const int notification_action_tombstone = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int notification_template_big_media = 2130968642;
+			public const int notification_media_action = 2130968642;
 			
 			// aapt resource value: 0x7f040043
-			public const int notification_template_big_media_custom = 2130968643;
+			public const int notification_media_cancel_action = 2130968643;
 			
 			// aapt resource value: 0x7f040044
-			public const int notification_template_big_media_narrow = 2130968644;
+			public const int notification_template_big_media = 2130968644;
 			
 			// aapt resource value: 0x7f040045
-			public const int notification_template_big_media_narrow_custom = 2130968645;
+			public const int notification_template_big_media_custom = 2130968645;
 			
 			// aapt resource value: 0x7f040046
-			public const int notification_template_custom_big = 2130968646;
+			public const int notification_template_big_media_narrow = 2130968646;
 			
 			// aapt resource value: 0x7f040047
-			public const int notification_template_icon_group = 2130968647;
+			public const int notification_template_big_media_narrow_custom = 2130968647;
 			
 			// aapt resource value: 0x7f040048
-			public const int notification_template_lines_media = 2130968648;
+			public const int notification_template_custom_big = 2130968648;
 			
 			// aapt resource value: 0x7f040049
-			public const int notification_template_media = 2130968649;
+			public const int notification_template_icon_group = 2130968649;
 			
 			// aapt resource value: 0x7f04004a
-			public const int notification_template_media_custom = 2130968650;
+			public const int notification_template_lines_media = 2130968650;
 			
 			// aapt resource value: 0x7f04004b
-			public const int notification_template_part_chronometer = 2130968651;
+			public const int notification_template_media = 2130968651;
 			
 			// aapt resource value: 0x7f04004c
-			public const int notification_template_part_time = 2130968652;
+			public const int notification_template_media_custom = 2130968652;
 			
 			// aapt resource value: 0x7f04004d
-			public const int RootLayout = 2130968653;
+			public const int notification_template_part_chronometer = 2130968653;
 			
 			// aapt resource value: 0x7f04004e
-			public const int select_dialog_item_material = 2130968654;
+			public const int notification_template_part_time = 2130968654;
 			
 			// aapt resource value: 0x7f04004f
-			public const int select_dialog_multichoice_material = 2130968655;
+			public const int RootLayout = 2130968655;
 			
 			// aapt resource value: 0x7f040050
-			public const int select_dialog_singlechoice_material = 2130968656;
+			public const int select_dialog_item_material = 2130968656;
 			
 			// aapt resource value: 0x7f040051
-			public const int ShellContent = 2130968657;
+			public const int select_dialog_multichoice_material = 2130968657;
 			
 			// aapt resource value: 0x7f040052
-			public const int support_simple_spinner_dropdown_item = 2130968658;
+			public const int select_dialog_singlechoice_material = 2130968658;
 			
 			// aapt resource value: 0x7f040053
-			public const int Tabbar = 2130968659;
+			public const int sfautocomplete_layout = 2130968659;
 			
 			// aapt resource value: 0x7f040054
-			public const int Toolbar = 2130968660;
+			public const int ShellContent = 2130968660;
+			
+			// aapt resource value: 0x7f040055
+			public const int support_simple_spinner_dropdown_item = 2130968661;
+			
+			// aapt resource value: 0x7f040056
+			public const int Tabbar = 2130968662;
+			
+			// aapt resource value: 0x7f040057
+			public const int Toolbar = 2130968663;
 			
 			static Layout()
 			{
@@ -7788,6 +8112,9 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7f0c0046
 			public const int hide_bottom_view_on_scroll_behavior = 2131492934;
+			
+			// aapt resource value: 0x7f0c004e
+			public const int library_name = 2131492942;
 			
 			// aapt resource value: 0x7f0c0000
 			public const int mr_button_content_description = 2131492864;
@@ -11745,6 +12072,176 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 12
 			public const int SearchView_voiceIcon = 12;
+			
+			public static int[] SfAutoComplete = new int[] {
+					2130772459,
+					2130772460,
+					2130772461,
+					2130772462,
+					2130772463,
+					2130772464,
+					2130772465,
+					2130772466,
+					2130772467,
+					2130772468,
+					2130772469,
+					2130772470,
+					2130772471,
+					2130772472,
+					2130772473,
+					2130772474,
+					2130772475,
+					2130772476,
+					2130772477,
+					2130772478,
+					2130772479,
+					2130772480,
+					2130772481,
+					2130772482,
+					2130772483,
+					2130772484,
+					2130772485,
+					2130772486,
+					2130772487,
+					2130772488,
+					2130772489,
+					2130772490,
+					2130772491,
+					2130772492,
+					2130772493,
+					2130772494,
+					2130772495,
+					2130772496,
+					2130772497,
+					2130772498,
+					2130772499,
+					2130772500};
+			
+			// aapt resource value: 4
+			public const int SfAutoComplete_autocompleteBorderColor = 4;
+			
+			// aapt resource value: 25
+			public const int SfAutoComplete_autocompleteClearButtonColor = 25;
+			
+			// aapt resource value: 13
+			public const int SfAutoComplete_autocompleteDisplayMemberPath = 13;
+			
+			// aapt resource value: 18
+			public const int SfAutoComplete_autocompleteDropDownBackgroundColor = 18;
+			
+			// aapt resource value: 34
+			public const int SfAutoComplete_autocompleteDropDownCornerRadius = 34;
+			
+			// aapt resource value: 36
+			public const int SfAutoComplete_autocompleteDropDownFooterViewHeight = 36;
+			
+			// aapt resource value: 35
+			public const int SfAutoComplete_autocompleteDropDownHeaderViewHeight = 35;
+			
+			// aapt resource value: 33
+			public const int SfAutoComplete_autocompleteDropDownItemHeight = 33;
+			
+			// aapt resource value: 8
+			public const int SfAutoComplete_autocompleteDropDownOpen = 8;
+			
+			// aapt resource value: 19
+			public const int SfAutoComplete_autocompleteDropDownTextColor = 19;
+			
+			// aapt resource value: 21
+			public const int SfAutoComplete_autocompleteDropDownTextSize = 21;
+			
+			// aapt resource value: 14
+			public const int SfAutoComplete_autocompleteEnableSelectionIndicator = 14;
+			
+			// aapt resource value: 31
+			public const int SfAutoComplete_autocompleteHighlightedTextColor = 31;
+			
+			// aapt resource value: 26
+			public const int SfAutoComplete_autocompleteIgnoreDiacritic = 26;
+			
+			// aapt resource value: 22
+			public const int SfAutoComplete_autocompleteImageMemberPath = 22;
+			
+			// aapt resource value: 15
+			public const int SfAutoComplete_autocompleteIndicatorText = 15;
+			
+			// aapt resource value: 16
+			public const int SfAutoComplete_autocompleteIndicatorTextColor = 16;
+			
+			// aapt resource value: 32
+			public const int SfAutoComplete_autocompleteIndicatorTextSize = 32;
+			
+			// aapt resource value: 27
+			public const int SfAutoComplete_autocompleteIsFocused = 27;
+			
+			// aapt resource value: 30
+			public const int SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown = 30;
+			
+			// aapt resource value: 28
+			public const int SfAutoComplete_autocompleteLoadMoreText = 28;
+			
+			// aapt resource value: 20
+			public const int SfAutoComplete_autocompleteMaximumDropDownHeight = 20;
+			
+			// aapt resource value: 9
+			public const int SfAutoComplete_autocompleteMaximumSuggestion = 9;
+			
+			// aapt resource value: 17
+			public const int SfAutoComplete_autocompleteMinimumPrefixCharacters = 17;
+			
+			// aapt resource value: 41
+			public const int SfAutoComplete_autocompleteMode = 41;
+			
+			// aapt resource value: 40
+			public const int SfAutoComplete_autocompleteMultiSelectMode = 40;
+			
+			// aapt resource value: 29
+			public const int SfAutoComplete_autocompleteNoResultsFoundText = 29;
+			
+			// aapt resource value: 12
+			public const int SfAutoComplete_autocompletePopUpDelay = 12;
+			
+			// aapt resource value: 10
+			public const int SfAutoComplete_autocompleteSelectedIndex = 10;
+			
+			// aapt resource value: 0
+			public const int SfAutoComplete_autocompleteShowBorder = 0;
+			
+			// aapt resource value: 1
+			public const int SfAutoComplete_autocompleteShowClearButton = 1;
+			
+			// aapt resource value: 24
+			public const int SfAutoComplete_autocompleteShowDropDownFooterView = 24;
+			
+			// aapt resource value: 23
+			public const int SfAutoComplete_autocompleteShowDropDownHeaderView = 23;
+			
+			// aapt resource value: 11
+			public const int SfAutoComplete_autocompleteShowSuggestionsOnFocus = 11;
+			
+			// aapt resource value: 38
+			public const int SfAutoComplete_autocompleteSuggestionBoxPlacement = 38;
+			
+			// aapt resource value: 37
+			public const int SfAutoComplete_autocompleteSuggestionMode = 37;
+			
+			// aapt resource value: 6
+			public const int SfAutoComplete_autocompleteText = 6;
+			
+			// aapt resource value: 3
+			public const int SfAutoComplete_autocompleteTextColor = 3;
+			
+			// aapt resource value: 7
+			public const int SfAutoComplete_autocompleteTextSize = 7;
+			
+			// aapt resource value: 39
+			public const int SfAutoComplete_autocompleteTokensWrapMode = 39;
+			
+			// aapt resource value: 5
+			public const int SfAutoComplete_autocompleteWatermark = 5;
+			
+			// aapt resource value: 2
+			public const int SfAutoComplete_autocompleteWatermarkColor = 2;
 			
 			public static int[] Snackbar = new int[] {
 					2130772382,

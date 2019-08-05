@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Amibopedia.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,9 +14,18 @@ namespace Amibopedia
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        public MainPageViewModel ViewModel{get; set;}
         public MainPage()
         {
             InitializeComponent();
+        }
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+            ViewModel = new MainPageViewModel();
+            await ViewModel.LoadCharacters();
+            this.BindingContext = ViewModel;
+            
         }
     }
 }

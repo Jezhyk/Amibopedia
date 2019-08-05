@@ -26,6 +26,135 @@ namespace Amibopedia.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::Amibopedia.Droid.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::Amibopedia.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::Amibopedia.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteBorderColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteBorderColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteClearButtonColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteClearButtonColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDisplayMemberPath = global::Amibopedia.Droid.Resource.Attribute.autocompleteDisplayMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownBackgroundColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownBackgroundColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownCornerRadius = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownCornerRadius;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownFooterViewHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownFooterViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownHeaderViewHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownHeaderViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownItemHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownItemHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownOpen = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownOpen;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteDropDownTextSize = global::Amibopedia.Droid.Resource.Attribute.autocompleteDropDownTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteEnableSelectionIndicator = global::Amibopedia.Droid.Resource.Attribute.autocompleteEnableSelectionIndicator;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteHighlightedTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteHighlightedTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIgnoreDiacritic = global::Amibopedia.Droid.Resource.Attribute.autocompleteIgnoreDiacritic;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteImageMemberPath = global::Amibopedia.Droid.Resource.Attribute.autocompleteImageMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIndicatorText = global::Amibopedia.Droid.Resource.Attribute.autocompleteIndicatorText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIndicatorTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteIndicatorTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIndicatorTextSize = global::Amibopedia.Droid.Resource.Attribute.autocompleteIndicatorTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIsFocused = global::Amibopedia.Droid.Resource.Attribute.autocompleteIsFocused;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteIsSelectedItemsVisibleInDropDown = global::Amibopedia.Droid.Resource.Attribute.autocompleteIsSelectedItemsVisibleInDropDown;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteLoadMoreText = global::Amibopedia.Droid.Resource.Attribute.autocompleteLoadMoreText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMaximumDropDownHeight = global::Amibopedia.Droid.Resource.Attribute.autocompleteMaximumDropDownHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMaximumSuggestion = global::Amibopedia.Droid.Resource.Attribute.autocompleteMaximumSuggestion;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMinimumPrefixCharacters = global::Amibopedia.Droid.Resource.Attribute.autocompleteMinimumPrefixCharacters;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteMultiSelectMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteMultiSelectMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteNoResultsFoundText = global::Amibopedia.Droid.Resource.Attribute.autocompleteNoResultsFoundText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompletePopUpDelay = global::Amibopedia.Droid.Resource.Attribute.autocompletePopUpDelay;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteSelectedIndex = global::Amibopedia.Droid.Resource.Attribute.autocompleteSelectedIndex;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowBorder = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowBorder;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowClearButton = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowClearButton;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowDropDownFooterView = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowDropDownFooterView;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowDropDownHeaderView = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowDropDownHeaderView;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteShowSuggestionsOnFocus = global::Amibopedia.Droid.Resource.Attribute.autocompleteShowSuggestionsOnFocus;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteSuggestionBoxPlacement = global::Amibopedia.Droid.Resource.Attribute.autocompleteSuggestionBoxPlacement;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteSuggestionMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteSuggestionMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteText = global::Amibopedia.Droid.Resource.Attribute.autocompleteText;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteTextColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteTextSize = global::Amibopedia.Droid.Resource.Attribute.autocompleteTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteTokensWrapMode = global::Amibopedia.Droid.Resource.Attribute.autocompleteTokensWrapMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteWatermark = global::Amibopedia.Droid.Resource.Attribute.autocompleteWatermark;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.autocompleteWatermarkColor = global::Amibopedia.Droid.Resource.Attribute.autocompleteWatermarkColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.layoutManager = global::Amibopedia.Droid.Resource.Attribute.layoutManager;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.reverseLayout = global::Amibopedia.Droid.Resource.Attribute.reverseLayout;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.spanCount = global::Amibopedia.Droid.Resource.Attribute.spanCount;
+			global::Com.Syncfusion.Autocomplete.Resource.Attribute.stackFromEnd = global::Amibopedia.Droid.Resource.Attribute.stackFromEnd;
+			global::Com.Syncfusion.Autocomplete.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Amibopedia.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Com.Syncfusion.Autocomplete.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Amibopedia.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Com.Syncfusion.Autocomplete.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Amibopedia.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Com.Syncfusion.Autocomplete.Resource.Drawable.sfclosebutton = global::Amibopedia.Droid.Resource.Drawable.sfclosebutton;
+			global::Com.Syncfusion.Autocomplete.Resource.Drawable.styleinfo = global::Amibopedia.Droid.Resource.Drawable.styleinfo;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.Itemname = global::Amibopedia.Droid.Resource.Id.Itemname;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.append = global::Amibopedia.Droid.Resource.Id.append;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.bottom = global::Amibopedia.Droid.Resource.Id.bottom;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.contains = global::Amibopedia.Droid.Resource.Id.contains;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.containsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.containsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.custom = global::Amibopedia.Droid.Resource.Id.custom;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.delimiter = global::Amibopedia.Droid.Resource.Id.delimiter;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.endsWith = global::Amibopedia.Droid.Resource.Id.endsWith;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.endsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.endsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.equals = global::Amibopedia.Droid.Resource.Id.equals;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.equalsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.equalsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.icon = global::Amibopedia.Droid.Resource.Id.icon;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.item_touch_helper_previous_elevation = global::Amibopedia.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.none = global::Amibopedia.Droid.Resource.Id.none;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.startsWith = global::Amibopedia.Droid.Resource.Id.startsWith;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.startsWithCaseSensitive = global::Amibopedia.Droid.Resource.Id.startsWithCaseSensitive;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.suggest = global::Amibopedia.Droid.Resource.Id.suggest;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.suggestAppend = global::Amibopedia.Droid.Resource.Id.suggestAppend;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.token = global::Amibopedia.Droid.Resource.Id.token;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.top = global::Amibopedia.Droid.Resource.Id.top;
+			global::Com.Syncfusion.Autocomplete.Resource.Id.wrap = global::Amibopedia.Droid.Resource.Id.wrap;
+			global::Com.Syncfusion.Autocomplete.Resource.Layout.CustomizedView = global::Amibopedia.Droid.Resource.Layout.CustomizedView;
+			global::Com.Syncfusion.Autocomplete.Resource.Layout.CustomizedView1 = global::Amibopedia.Droid.Resource.Layout.CustomizedView1;
+			global::Com.Syncfusion.Autocomplete.Resource.Layout.sfautocomplete_layout = global::Amibopedia.Droid.Resource.Layout.sfautocomplete_layout;
+			global::Com.Syncfusion.Autocomplete.Resource.String.library_name = global::Amibopedia.Droid.Resource.String.library_name;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView = global::Amibopedia.Droid.Resource.Styleable.RecyclerView;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_android_orientation = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_layoutManager = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_reverseLayout = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_spanCount = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.RecyclerView_stackFromEnd = global::Amibopedia.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteBorderColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteBorderColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteClearButtonColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteClearButtonColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDisplayMemberPath = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDisplayMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownBackgroundColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownBackgroundColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownCornerRadius = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownCornerRadius;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownFooterViewHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownFooterViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownHeaderViewHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownHeaderViewHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownItemHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownItemHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownOpen = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownOpen;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextSize = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteDropDownTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteEnableSelectionIndicator = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteEnableSelectionIndicator;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteHighlightedTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteHighlightedTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIgnoreDiacritic = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIgnoreDiacritic;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteImageMemberPath = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteImageMemberPath;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIndicatorText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIndicatorText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextSize = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIndicatorTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIsFocused = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIsFocused;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteLoadMoreText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteLoadMoreText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMaximumDropDownHeight = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMaximumDropDownHeight;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMaximumSuggestion = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMaximumSuggestion;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMinimumPrefixCharacters = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMinimumPrefixCharacters;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteMultiSelectMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteMultiSelectMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteNoResultsFoundText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteNoResultsFoundText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompletePopUpDelay = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompletePopUpDelay;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteSelectedIndex = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteSelectedIndex;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowBorder = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowBorder;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowClearButton = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowClearButton;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownFooterView = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownFooterView;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownHeaderView = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowDropDownHeaderView;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteShowSuggestionsOnFocus = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteShowSuggestionsOnFocus;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteSuggestionBoxPlacement = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteSuggestionBoxPlacement;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteSuggestionMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteSuggestionMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteText = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteText;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteTextColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteTextColor;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteTextSize = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteTextSize;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteTokensWrapMode = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteTokensWrapMode;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteWatermark = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteWatermark;
+			global::Com.Syncfusion.Autocomplete.Resource.Styleable.SfAutoComplete_autocompleteWatermarkColor = global::Amibopedia.Droid.Resource.Styleable.SfAutoComplete_autocompleteWatermarkColor;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Amibopedia.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Amibopedia.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Amibopedia.Droid.Resource.Attribute.font;
@@ -2775,17 +2904,17 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F010010
 			public const int design_snackbar_out = 2130771984;
 			
-			// aapt resource value: 0x7F080018
-			public const int EnterFromLeft = 2131230744;
+			// aapt resource value: 0x7F110018
+			public const int EnterFromLeft = 2131820568;
 			
-			// aapt resource value: 0x7F080019
-			public const int EnterFromRight = 2131230745;
+			// aapt resource value: 0x7F110019
+			public const int EnterFromRight = 2131820569;
 			
-			// aapt resource value: 0x7F080020
-			public const int ExitToLeft = 2131230752;
+			// aapt resource value: 0x7F110020
+			public const int ExitToLeft = 2131820576;
 			
-			// aapt resource value: 0x7F080021
-			public const int ExitToRight = 2131230753;
+			// aapt resource value: 0x7F110021
+			public const int ExitToRight = 2131820577;
 			
 			static Animation()
 			{
@@ -2972,8 +3101,134 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F04002B
 			public const int arrowShaftLength = 2130968619;
 			
+			// aapt resource value: 0x7F080006
+			public const int autocompleteBorderColor = 2131230726;
+			
+			// aapt resource value: 0x7F080027
+			public const int autocompleteClearButtonColor = 2131230759;
+			
+			// aapt resource value: 0x7F080015
+			public const int autocompleteDisplayMemberPath = 2131230741;
+			
+			// aapt resource value: 0x7F080020
+			public const int autocompleteDropDownBackgroundColor = 2131230752;
+			
+			// aapt resource value: 0x7F080036
+			public const int autocompleteDropDownCornerRadius = 2131230774;
+			
+			// aapt resource value: 0x7F080038
+			public const int autocompleteDropDownFooterViewHeight = 2131230776;
+			
+			// aapt resource value: 0x7F080037
+			public const int autocompleteDropDownHeaderViewHeight = 2131230775;
+			
+			// aapt resource value: 0x7F080035
+			public const int autocompleteDropDownItemHeight = 2131230773;
+			
+			// aapt resource value: 0x7F080010
+			public const int autocompleteDropDownOpen = 2131230736;
+			
+			// aapt resource value: 0x7F080021
+			public const int autocompleteDropDownTextColor = 2131230753;
+			
+			// aapt resource value: 0x7F080023
+			public const int autocompleteDropDownTextSize = 2131230755;
+			
+			// aapt resource value: 0x7F080016
+			public const int autocompleteEnableSelectionIndicator = 2131230742;
+			
+			// aapt resource value: 0x7F080033
+			public const int autocompleteHighlightedTextColor = 2131230771;
+			
+			// aapt resource value: 0x7F080028
+			public const int autocompleteIgnoreDiacritic = 2131230760;
+			
+			// aapt resource value: 0x7F080024
+			public const int autocompleteImageMemberPath = 2131230756;
+			
+			// aapt resource value: 0x7F080017
+			public const int autocompleteIndicatorText = 2131230743;
+			
+			// aapt resource value: 0x7F080018
+			public const int autocompleteIndicatorTextColor = 2131230744;
+			
+			// aapt resource value: 0x7F080034
+			public const int autocompleteIndicatorTextSize = 2131230772;
+			
+			// aapt resource value: 0x7F080029
+			public const int autocompleteIsFocused = 2131230761;
+			
+			// aapt resource value: 0x7F080032
+			public const int autocompleteIsSelectedItemsVisibleInDropDown = 2131230770;
+			
+			// aapt resource value: 0x7F080030
+			public const int autocompleteLoadMoreText = 2131230768;
+			
+			// aapt resource value: 0x7F080022
+			public const int autocompleteMaximumDropDownHeight = 2131230754;
+			
+			// aapt resource value: 0x7F080011
+			public const int autocompleteMaximumSuggestion = 2131230737;
+			
+			// aapt resource value: 0x7F080019
+			public const int autocompleteMinimumPrefixCharacters = 2131230745;
+			
+			// aapt resource value: 0x7F080043
+			public const int autocompleteMode = 2131230787;
+			
+			// aapt resource value: 0x7F080042
+			public const int autocompleteMultiSelectMode = 2131230786;
+			
+			// aapt resource value: 0x7F080031
+			public const int autocompleteNoResultsFoundText = 2131230769;
+			
+			// aapt resource value: 0x7F080014
+			public const int autocompletePopUpDelay = 2131230740;
+			
+			// aapt resource value: 0x7F080012
+			public const int autocompleteSelectedIndex = 2131230738;
+			
+			// aapt resource value: 0x7F080002
+			public const int autocompleteShowBorder = 2131230722;
+			
+			// aapt resource value: 0x7F080003
+			public const int autocompleteShowClearButton = 2131230723;
+			
+			// aapt resource value: 0x7F080026
+			public const int autocompleteShowDropDownFooterView = 2131230758;
+			
+			// aapt resource value: 0x7F080025
+			public const int autocompleteShowDropDownHeaderView = 2131230757;
+			
+			// aapt resource value: 0x7F080013
+			public const int autocompleteShowSuggestionsOnFocus = 2131230739;
+			
+			// aapt resource value: 0x7F080040
+			public const int autocompleteSuggestionBoxPlacement = 2131230784;
+			
+			// aapt resource value: 0x7F080039
+			public const int autocompleteSuggestionMode = 2131230777;
+			
+			// aapt resource value: 0x7F080008
+			public const int autocompleteText = 2131230728;
+			
+			// aapt resource value: 0x7F080005
+			public const int autocompleteTextColor = 2131230725;
+			
+			// aapt resource value: 0x7F080009
+			public const int autocompleteTextSize = 2131230729;
+			
 			// aapt resource value: 0x7F04002C
 			public const int autoCompleteTextViewStyle = 2130968620;
+			
+			// aapt resource value: 0x7F080041
+			public const int autocompleteTokensWrapMode = 2131230785;
+			
+			// aapt resource value: 0x7F080007
+			public const int autocompleteWatermark = 2131230727;
+			
+			// aapt resource value: 0x7F080004
+			public const int autocompleteWatermarkColor = 2131230724;
 			
 			// aapt resource value: 0x7F04002D
 			public const int autoSizeMaxTextSize = 2130968621;
@@ -6285,6 +6540,15 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F090105
 			public const int ic_vol_type_tv_light = 2131296517;
 			
+			// aapt resource value: 0x7F060002
+			public const int inputlayout_togglecollapseicon = 2131099650;
+			
+			// aapt resource value: 0x7F060003
+			public const int inputlayout_togglevisibleicon = 2131099651;
+			
+			// aapt resource value: 0x7F060004
+			public const int input_layout_drop_down_icon = 2131099652;
+			
 			// aapt resource value: 0x7F090106
 			public const int mr_button_connected_dark = 2131296518;
 			
@@ -6390,6 +6654,12 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
+			// aapt resource value: 0x7F060005
+			public const int sfclosebutton = 2131099653;
+			
+			// aapt resource value: 0x7F060006
+			public const int styleinfo = 2131099654;
+			
 			// aapt resource value: 0x7F09006F
 			public const int tooltip_frame_dark = 2131296367;
 			
@@ -6475,6 +6745,9 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0015
 			public const int alertTitle = 2131492885;
 			
+			// aapt resource value: 0x7F010022
+			public const int append = 2130772002;
+			
 			// aapt resource value: 0x7F0C0006
 			public const int async = 2131492870;
 			
@@ -6484,14 +6757,14 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0007
 			public const int blocking = 2131492871;
 			
-			// aapt resource value: 0x7F0C0008
-			public const int bottom = 2131492872;
+			// aapt resource value: 0x7F010015
+			public const int bottom = 2130771989;
 			
-			// aapt resource value: 0x7F010213
-			public const int bottomtab.navarea = 2130772499;
+			// aapt resource value: 0x7F010228
+			public const int bottomtab.navarea = 2130772520;
 			
-			// aapt resource value: 0x7F010214
-			public const int bottomtab.tabbar = 2130772500;
+			// aapt resource value: 0x7F010229
+			public const int bottomtab.tabbar = 2130772521;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int browser_actions_header_text = 2131492873;
@@ -6523,11 +6796,17 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0008
 			public const int chronometer = 2131492872;
 			
-			// aapt resource value: 0x7F010224
-			public const int collectionViewStyle = 2130772516;
+			// aapt resource value: 0x7F010239
+			public const int collectionViewStyle = 2130772537;
 			
 			// aapt resource value: 0x7F0C001E
 			public const int container = 2131492894;
+			
+			// aapt resource value: 0x7F010008
+			public const int contains = 2130771976;
+			
+			// aapt resource value: 0x7F010009
+			public const int containsWithCaseSensitive = 2130771977;
 			
 			// aapt resource value: 0x7F0C001F
 			public const int content = 2131492895;
@@ -6538,8 +6817,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0021
 			public const int coordinator = 2131492897;
 			
-			// aapt resource value: 0x7F0C0022
-			public const int custom = 2131492898;
+			// aapt resource value: 0x7F010014
+			public const int custom = 2130771988;
 			
 			// aapt resource value: 0x7F0C0023
 			public const int customPanel = 2131492899;
@@ -6549,6 +6828,9 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7F0C0025
 			public const int default_activity_button = 2131492901;
+			
+			// aapt resource value: 0x7F010020
+			public const int delimiter = 2130772000;
 			
 			// aapt resource value: 0x7F0C0026
 			public const int design_bottom_sheet = 2131492902;
@@ -6571,8 +6853,20 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C000A
 			public const int end = 2131492874;
 			
+			// aapt resource value: 0x7F010010
+			public const int endsWith = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int endsWithCaseSensitive = 2130771985;
+			
 			// aapt resource value: 0x7F0C000B
 			public const int end_padder = 2131492875;
+			
+			// aapt resource value: 0x7F010012
+			public const int equals = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int equalsWithCaseSensitive = 2130771987;
 			
 			// aapt resource value: 0x7F0C002E
 			public const int expanded_menu = 2131492910;
@@ -6589,11 +6883,11 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0031
 			public const int @fixed = 2131492913;
 			
-			// aapt resource value: 0x7F010215
-			public const int flyoutcontent_appbar = 2130772501;
+			// aapt resource value: 0x7F010230
+			public const int flyoutcontent_appbar = 2130772528;
 			
-			// aapt resource value: 0x7F010216
-			public const int flyoutcontent_recycler = 2130772502;
+			// aapt resource value: 0x7F010231
+			public const int flyoutcontent_recycler = 2130772529;
 			
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
@@ -6607,8 +6901,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0035
 			public const int home = 2131492917;
 			
-			// aapt resource value: 0x7F0C000A
-			public const int icon = 2131492874;
+			// aapt resource value: 0x7F010005
+			public const int icon = 2130771973;
 			
 			// aapt resource value: 0x7F0C000B
 			public const int icon_group = 2131492875;
@@ -6621,6 +6915,9 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7F0C000D
 			public const int italic = 2131492877;
+			
+			// aapt resource value: 0x7F010004
+			public const int Itemname = 2130771972;
 			
 			// aapt resource value: 0x7F0C003B
 			public const int item_touch_helper_previous_elevation = 2131492923;
@@ -6646,17 +6943,17 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0042
 			public const int list_item = 2131492930;
 			
-			// aapt resource value: 0x7F010217
-			public const int main.appbar = 2130772503;
+			// aapt resource value: 0x7F010232
+			public const int main.appbar = 2130772530;
 			
-			// aapt resource value: 0x7F010220
-			public const int main.scrollview = 2130772512;
+			// aapt resource value: 0x7F010235
+			public const int main.scrollview = 2130772533;
 			
-			// aapt resource value: 0x7F010219
-			public const int main.tablayout = 2130772505;
+			// aapt resource value: 0x7F010234
+			public const int main.tablayout = 2130772532;
 			
-			// aapt resource value: 0x7F010218
-			public const int main.toolbar = 2130772504;
+			// aapt resource value: 0x7F010233
+			public const int main.toolbar = 2130772531;
 			
 			// aapt resource value: 0x7F0C0043
 			public const int masked = 2131492931;
@@ -6820,8 +7117,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C0049
 			public const int navigation_header_container = 2131492937;
 			
-			// aapt resource value: 0x7F0C0013
-			public const int none = 2131492883;
+			// aapt resource value: 0x7F010017
+			public const int none = 2130771991;
 			
 			// aapt resource value: 0x7F0C0010
 			public const int normal = 2131492880;
@@ -6928,14 +7225,14 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C006C
 			public const int select_dialog_listview = 2131492972;
 			
-			// aapt resource value: 0x7F010221
-			public const int shellcontent.appbar = 2130772513;
+			// aapt resource value: 0x7F010236
+			public const int shellcontent.appbar = 2130772534;
 			
-			// aapt resource value: 0x7F010223
-			public const int shellcontent.scrollview = 2130772515;
+			// aapt resource value: 0x7F010238
+			public const int shellcontent.scrollview = 2130772536;
 			
-			// aapt resource value: 0x7F010222
-			public const int shellcontent.toolbar = 2130772514;
+			// aapt resource value: 0x7F010237
+			public const int shellcontent.toolbar = 2130772535;
 			
 			// aapt resource value: 0x7F0C006E
 			public const int shortcut = 2131492974;
@@ -6970,6 +7267,12 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C001B
 			public const int start = 2131492891;
 			
+			// aapt resource value: 0x7F010006
+			public const int startsWith = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int startsWithCaseSensitive = 2130771975;
+			
 			// aapt resource value: 0x7F0C001A
 			public const int status_bar_latest_event_content = 2131492890;
 			
@@ -6981,6 +7284,12 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7F0C007A
 			public const int submit_area = 2131492986;
+			
+			// aapt resource value: 0x7F010021
+			public const int suggest = 2130772001;
+			
+			// aapt resource value: 0x7F010023
+			public const int suggestAppend = 2130772003;
 			
 			// aapt resource value: 0x7F0C007B
 			public const int tabMode = 2131492987;
@@ -7030,11 +7339,14 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0C008A
 			public const int title_template = 2131493002;
 			
+			// aapt resource value: 0x7F010019
+			public const int token = 2130771993;
+			
 			// aapt resource value: 0x7F010003
 			public const int toolbar = 2130771971;
 			
-			// aapt resource value: 0x7F0C0023
-			public const int top = 2131492899;
+			// aapt resource value: 0x7F010016
+			public const int top = 2130771990;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int topPanel = 2131493004;
@@ -7074,6 +7386,9 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7F0C009D
 			public const int volume_item_container = 2131493021;
+			
+			// aapt resource value: 0x7F010018
+			public const int wrap = 2130771992;
 			
 			// aapt resource value: 0x7F0C0098
 			public const int wrap_content = 2131493016;
@@ -7276,14 +7591,20 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0F001C
 			public const int abc_tooltip = 2131689500;
 			
-			// aapt resource value: 0x7F020083
-			public const int BottomTabLayout = 2130837635;
+			// aapt resource value: 0x7F020086
+			public const int BottomTabLayout = 2130837638;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int browser_actions_context_menu_page = 2131689473;
 			
 			// aapt resource value: 0x7F0F0002
 			public const int browser_actions_context_menu_row = 2131689474;
+			
+			// aapt resource value: 0x7F020004
+			public const int CustomizedView = 2130837508;
+			
+			// aapt resource value: 0x7F020005
+			public const int CustomizedView1 = 2130837509;
 			
 			// aapt resource value: 0x7F0F001D
 			public const int design_bottom_navigation_item = 2131689501;
@@ -7327,8 +7648,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0F002A
 			public const int design_text_input_password_icon = 2131689514;
 			
-			// aapt resource value: 0x7F020084
-			public const int FlyoutContent = 2130837636;
+			// aapt resource value: 0x7F020087
+			public const int FlyoutContent = 2130837639;
 			
 			// aapt resource value: 0x7F0F001D
 			public const int mr_cast_dialog = 2131689501;
@@ -7423,8 +7744,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0F0006
 			public const int notification_template_part_time = 2131689478;
 			
-			// aapt resource value: 0x7F020085
-			public const int RootLayout = 2130837637;
+			// aapt resource value: 0x7F020088
+			public const int RootLayout = 2130837640;
 			
 			// aapt resource value: 0x7F0F0033
 			public const int select_dialog_item_material = 2131689523;
@@ -7435,8 +7756,11 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x7F0F0035
 			public const int select_dialog_singlechoice_material = 2131689525;
 			
-			// aapt resource value: 0x7F020086
-			public const int ShellContent = 2130837638;
+			// aapt resource value: 0x7F020006
+			public const int sfautocomplete_layout = 2130837510;
+			
+			// aapt resource value: 0x7F020089
+			public const int ShellContent = 2130837641;
 			
 			// aapt resource value: 0x7F0F0036
 			public const int support_simple_spinner_dropdown_item = 2131689526;
@@ -7619,6 +7943,9 @@ namespace Amibopedia.Droid
 			
 			// aapt resource value: 0x7F15002E
 			public const int hide_bottom_view_on_scroll_behavior = 2132082734;
+			
+			// aapt resource value: 0x7F090002
+			public const int library_name = 2131296258;
 			
 			// aapt resource value: 0x7F150028
 			public const int mr_button_content_description = 2132082728;
@@ -9321,11 +9648,11 @@ namespace Amibopedia.Droid
 			public static int[] ActionBarLayout = new int[] {
 					16842931};
 			
-			// aapt resource value: 0x7F060082
-			public const int ActionBarLayout_android_layout_gravity = 2131099778;
+			// aapt resource value: 0x7F070125
+			public const int ActionBarLayout_android_layout_gravity = 2131165477;
 			
-			// aapt resource value: 0x7F060052
-			public const int ActionBar_background = 2131099730;
+			// aapt resource value: 0x7F070095
+			public const int ActionBar_background = 2131165333;
 			
 			// aapt resource value: 0x1
 			public const int ActionBar_backgroundSplit = 1;
@@ -9414,8 +9741,8 @@ namespace Amibopedia.Droid
 			public static int[] ActionMenuItemView = new int[] {
 					16843071};
 			
-			// aapt resource value: 0x7F060084
-			public const int ActionMenuItemView_android_minWidth = 2131099780;
+			// aapt resource value: 0x7F070127
+			public const int ActionMenuItemView_android_minWidth = 2131165479;
 			
 			public static int[] ActionMenuView = new int[] {
 					0};
@@ -9428,8 +9755,8 @@ namespace Amibopedia.Droid
 					2130968951,
 					2130969030};
 			
-			// aapt resource value: 0x7F060086
-			public const int ActionMode_background = 2131099782;
+			// aapt resource value: 0x7F070129
+			public const int ActionMode_background = 2131165481;
 			
 			// aapt resource value: 0x1
 			public const int ActionMode_backgroundSplit = 1;
@@ -9450,8 +9777,8 @@ namespace Amibopedia.Droid
 					2130968763,
 					2130968824};
 			
-			// aapt resource value: 0x7F060093
-			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131099795;
+			// aapt resource value: 0x7F070136
+			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131165494;
 			
 			// aapt resource value: 0x1
 			public const int ActivityChooserView_initialActivityCount = 1;
@@ -9466,8 +9793,8 @@ namespace Amibopedia.Droid
 					2130968924,
 					2130968925};
 			
-			// aapt resource value: 0x7F060096
-			public const int AlertDialog_android_layout = 2131099798;
+			// aapt resource value: 0x7F070139
+			public const int AlertDialog_android_layout = 2131165497;
 			
 			// aapt resource value: 0x1
 			public const int AlertDialog_buttonIconDimen = 1;
@@ -9498,8 +9825,8 @@ namespace Amibopedia.Droid
 					16843157,
 					16843156};
 			
-			// aapt resource value: 0x7F060730
-			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131101488;
+			// aapt resource value: 0x7F070773
+			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131167091;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableCompat_android_dither = 1;
@@ -9520,8 +9847,8 @@ namespace Amibopedia.Droid
 					16843161,
 					16842960};
 			
-			// aapt resource value: 0x7F060737
-			public const int AnimatedStateListDrawableItem_android_drawable = 2131101495;
+			// aapt resource value: 0x7F070780
+			public const int AnimatedStateListDrawableItem_android_drawable = 2131167104;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableItem_android_id = 1;
@@ -9532,8 +9859,8 @@ namespace Amibopedia.Droid
 					16843851,
 					16843849};
 			
-			// aapt resource value: 0x7F060740
-			public const int AnimatedStateListDrawableTransition_android_drawable = 2131101504;
+			// aapt resource value: 0x7F070783
+			public const int AnimatedStateListDrawableTransition_android_drawable = 2131167107;
 			
 			// aapt resource value: 0x1
 			public const int AnimatedStateListDrawableTransition_android_fromId = 1;
@@ -9558,8 +9885,8 @@ namespace Amibopedia.Droid
 					2130968940,
 					2130968941};
 			
-			// aapt resource value: 0x7F060112
-			public const int AppBarLayoutStates_state_collapsed = 2131099922;
+			// aapt resource value: 0x7F070155
+			public const int AppBarLayoutStates_state_collapsed = 2131165525;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayoutStates_state_collapsible = 1;
@@ -9570,8 +9897,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x3
 			public const int AppBarLayoutStates_state_lifted = 3;
 			
-			// aapt resource value: 0x7F060105
-			public const int AppBarLayout_android_background = 2131099909;
+			// aapt resource value: 0x7F070148
+			public const int AppBarLayout_android_background = 2131165512;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_android_keyboardNavigationCluster = 1;
@@ -9589,8 +9916,8 @@ namespace Amibopedia.Droid
 					2130968852,
 					2130968853};
 			
-			// aapt resource value: 0x7F060117
-			public const int AppBarLayout_Layout_layout_scrollFlags = 2131099927;
+			// aapt resource value: 0x7F070160
+			public const int AppBarLayout_Layout_layout_scrollFlags = 2131165536;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_Layout_layout_scrollInterpolator = 1;
@@ -9604,8 +9931,8 @@ namespace Amibopedia.Droid
 					2130969018,
 					2130969019};
 			
-			// aapt resource value: 0x7F060120
-			public const int AppCompatImageView_android_src = 2131099936;
+			// aapt resource value: 0x7F070163
+			public const int AppCompatImageView_android_src = 2131165539;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatImageView_srcCompat = 1;
@@ -9622,8 +9949,8 @@ namespace Amibopedia.Droid
 					2130969016,
 					2130969017};
 			
-			// aapt resource value: 0x7F060125
-			public const int AppCompatSeekBar_android_thumb = 2131099941;
+			// aapt resource value: 0x7F070168
+			public const int AppCompatSeekBar_android_thumb = 2131165544;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatSeekBar_tickMark = 1;
@@ -9643,8 +9970,8 @@ namespace Amibopedia.Droid
 					16843117,
 					16842804};
 			
-			// aapt resource value: 0x7F060130
-			public const int AppCompatTextHelper_android_drawableBottom = 2131099952;
+			// aapt resource value: 0x7F070173
+			public const int AppCompatTextHelper_android_drawableBottom = 2131165555;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextHelper_android_drawableEnd = 1;
@@ -9677,8 +10004,8 @@ namespace Amibopedia.Droid
 					2130968855,
 					2130968983};
 			
-			// aapt resource value: 0x7F060138
-			public const int AppCompatTextView_android_textAppearance = 2131099960;
+			// aapt resource value: 0x7F070181
+			public const int AppCompatTextView_android_textAppearance = 2131165569;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextView_autoSizeMaxTextSize = 1;
@@ -9833,8 +10160,8 @@ namespace Amibopedia.Droid
 					2130969052,
 					2130969053};
 			
-			// aapt resource value: 0x7F060150
-			public const int AppCompatTheme_actionBarDivider = 2131099984;
+			// aapt resource value: 0x7F070193
+			public const int AppCompatTheme_actionBarDivider = 2131165587;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTheme_actionBarItemBackground = 1;
@@ -10204,8 +10531,8 @@ namespace Amibopedia.Droid
 					2130968775,
 					2130968806};
 			
-			// aapt resource value: 0x7F060272
-			public const int BottomAppBar_backgroundTint = 2131100274;
+			// aapt resource value: 0x7F070315
+			public const int BottomAppBar_backgroundTint = 2131165973;
 			
 			// aapt resource value: 0x1
 			public const int BottomAppBar_fabAlignmentMode = 1;
@@ -10234,8 +10561,8 @@ namespace Amibopedia.Droid
 					2130968840,
 					2130968876};
 			
-			// aapt resource value: 0x7F060279
-			public const int BottomNavigationView_elevation = 2131100281;
+			// aapt resource value: 0x7F070322
+			public const int BottomNavigationView_elevation = 2131165986;
 			
 			// aapt resource value: 0x1
 			public const int BottomNavigationView_itemBackground = 1;
@@ -10270,8 +10597,8 @@ namespace Amibopedia.Droid
 					2130968636,
 					2130968637};
 			
-			// aapt resource value: 0x7F060290
-			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 2131100304;
+			// aapt resource value: 0x7F070333
+			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 2131166003;
 			
 			// aapt resource value: 0x1
 			public const int BottomSheetBehavior_Layout_behavior_hideable = 1;
@@ -10285,8 +10612,8 @@ namespace Amibopedia.Droid
 			public static int[] ButtonBarLayout = new int[] {
 					2130968615};
 			
-			// aapt resource value: 0x7F060295
-			public const int ButtonBarLayout_allowStacking = 2131100309;
+			// aapt resource value: 0x7F070338
+			public const int ButtonBarLayout_allowStacking = 2131166008;
 			
 			public static int[] CardView = new int[] {
 					16843072,
@@ -10303,8 +10630,8 @@ namespace Amibopedia.Droid
 					2130968731,
 					2130968732};
 			
-			// aapt resource value: 0x7F060297
-			public const int CardView_android_minHeight = 2131100311;
+			// aapt resource value: 0x7F070340
+			public const int CardView_android_minHeight = 2131166016;
 			
 			// aapt resource value: 0x1
 			public const int CardView_android_minWidth = 1;
@@ -10386,8 +10713,8 @@ namespace Amibopedia.Droid
 					2130968926,
 					2130968927};
 			
-			// aapt resource value: 0x7F060346
-			public const int ChipGroup_checkedChip = 2131100486;
+			// aapt resource value: 0x7F070389
+			public const int ChipGroup_checkedChip = 2131166089;
 			
 			// aapt resource value: 0x1
 			public const int ChipGroup_chipSpacing = 1;
@@ -10404,8 +10731,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x5
 			public const int ChipGroup_singleSelection = 5;
 			
-			// aapt resource value: 0x7F060311
-			public const int Chip_android_checkable = 2131100433;
+			// aapt resource value: 0x7F070354
+			public const int Chip_android_checkable = 2131166036;
 			
 			// aapt resource value: 0x1
 			public const int Chip_android_ellipsize = 1;
@@ -10524,8 +10851,8 @@ namespace Amibopedia.Droid
 					2130969021,
 					2130969031};
 			
-			// aapt resource value: 0x7F060353
-			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131100499;
+			// aapt resource value: 0x7F070396
+			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131166102;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_collapsedTitleTextAppearance = 1;
@@ -10558,8 +10885,8 @@ namespace Amibopedia.Droid
 					2130968847,
 					2130968848};
 			
-			// aapt resource value: 0x7F060370
-			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131100528;
+			// aapt resource value: 0x7F070413
+			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131166227;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
@@ -10587,8 +10914,8 @@ namespace Amibopedia.Droid
 					16843551,
 					16843173};
 			
-			// aapt resource value: 0x7F060003
-			public const int ColorStateListItem_alpha = 2131099651;
+			// aapt resource value: 0x7F070046
+			public const int ColorStateListItem_alpha = 2131165254;
 			
 			// aapt resource value: 0x1
 			public const int ColorStateListItem_android_alpha = 1;
@@ -10601,8 +10928,8 @@ namespace Amibopedia.Droid
 					2130968663,
 					2130968664};
 			
-			// aapt resource value: 0x7F060373
-			public const int CompoundButton_android_button = 2131100531;
+			// aapt resource value: 0x7F070416
+			public const int CompoundButton_android_button = 2131166230;
 			
 			// aapt resource value: 0x1
 			public const int CompoundButton_buttonTint = 1;
@@ -10614,8 +10941,8 @@ namespace Amibopedia.Droid
 					2130968589,
 					2130968596};
 			
-			// aapt resource value: 0x7F060041
-			public const int CoordinatorLayout_keylines = 2131099713;
+			// aapt resource value: 0x7F070084
+			public const int CoordinatorLayout_keylines = 2131165316;
 			
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
@@ -10626,8 +10953,8 @@ namespace Amibopedia.Droid
 					2130968594,
 					2130968595};
 			
-			// aapt resource value: 0x7F060044
-			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131099716;
+			// aapt resource value: 0x7F070087
+			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131165319;
 			
 			// aapt resource value: 0x1
 			public const int CoordinatorLayout_Layout_layout_anchor = 1;
@@ -10654,8 +10981,8 @@ namespace Amibopedia.Droid
 					2130968642,
 					2130968643};
 			
-			// aapt resource value: 0x7F060377
-			public const int DesignTheme_bottomSheetDialogTheme = 2131100535;
+			// aapt resource value: 0x7F070420
+			public const int DesignTheme_bottomSheetDialogTheme = 2131166240;
 			
 			// aapt resource value: 0x1
 			public const int DesignTheme_bottomSheetStyle = 1;
@@ -10670,8 +10997,8 @@ namespace Amibopedia.Droid
 					2130968931,
 					2130969011};
 			
-			// aapt resource value: 0x7F060380
-			public const int DrawerArrowToggle_arrowHeadLength = 2131100544;
+			// aapt resource value: 0x7F070423
+			public const int DrawerArrowToggle_arrowHeadLength = 2131166243;
 			
 			// aapt resource value: 0x1
 			public const int DrawerArrowToggle_arrowShaftLength = 1;
@@ -10709,8 +11036,8 @@ namespace Amibopedia.Droid
 					2130968922,
 					2130969041};
 			
-			// aapt resource value: 0x7F060389
-			public const int FloatingActionButton_backgroundTint = 2131100553;
+			// aapt resource value: 0x7F070432
+			public const int FloatingActionButton_backgroundTint = 2131166258;
 			
 			// aapt resource value: 0x1
 			public const int FloatingActionButton_backgroundTintMode = 1;
@@ -10718,8 +11045,8 @@ namespace Amibopedia.Droid
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
 					2130968632};
 			
-			// aapt resource value: 0x7F060403
-			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131100675;
+			// aapt resource value: 0x7F070446
+			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131166278;
 			
 			// aapt resource value: 0x2
 			public const int FloatingActionButton_borderWidth = 2;
@@ -10758,8 +11085,8 @@ namespace Amibopedia.Droid
 					2130968834,
 					2130968856};
 			
-			// aapt resource value: 0x7F060405
-			public const int FlowLayout_itemSpacing = 2131100677;
+			// aapt resource value: 0x7F070448
+			public const int FlowLayout_itemSpacing = 2131166280;
 			
 			// aapt resource value: 0x1
 			public const int FlowLayout_lineSpacing = 1;
@@ -10784,8 +11111,8 @@ namespace Amibopedia.Droid
 					2130968587,
 					2130968588};
 			
-			// aapt resource value: 0x7F060014
-			public const int FontFamilyFont_android_font = 2131099668;
+			// aapt resource value: 0x7F070057
+			public const int FontFamilyFont_android_font = 2131165271;
 			
 			// aapt resource value: 0x1
 			public const int FontFamilyFont_android_fontStyle = 1;
@@ -10814,8 +11141,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x9
 			public const int FontFamilyFont_ttcIndex = 9;
 			
-			// aapt resource value: 0x7F060007
-			public const int FontFamily_fontProviderAuthority = 2131099655;
+			// aapt resource value: 0x7F070050
+			public const int FontFamily_fontProviderAuthority = 2131165264;
 			
 			// aapt resource value: 0x1
 			public const int FontFamily_fontProviderCerts = 1;
@@ -10837,8 +11164,8 @@ namespace Amibopedia.Droid
 					16843264,
 					2130968796};
 			
-			// aapt resource value: 0x7F060408
-			public const int ForegroundLinearLayout_android_foreground = 2131100680;
+			// aapt resource value: 0x7F070451
+			public const int ForegroundLinearLayout_android_foreground = 2131166289;
 			
 			// aapt resource value: 0x1
 			public const int ForegroundLinearLayout_android_foregroundGravity = 1;
@@ -10864,14 +11191,14 @@ namespace Amibopedia.Droid
 					16843173,
 					16844052};
 			
-			// aapt resource value: 0x7F060038
-			public const int GradientColorItem_android_color = 2131099704;
+			// aapt resource value: 0x7F070081
+			public const int GradientColorItem_android_color = 2131165313;
 			
 			// aapt resource value: 0x1
 			public const int GradientColorItem_android_offset = 1;
 			
-			// aapt resource value: 0x7F060025
-			public const int GradientColor_android_centerColor = 2131099685;
+			// aapt resource value: 0x7F070068
+			public const int GradientColor_android_centerColor = 2131165288;
 			
 			// aapt resource value: 0x1
 			public const int GradientColor_android_centerX = 1;
@@ -10917,8 +11244,8 @@ namespace Amibopedia.Droid
 					2130968875,
 					2130968921};
 			
-			// aapt resource value: 0x7F060412
-			public const int LinearLayoutCompat_android_baselineAligned = 2131100690;
+			// aapt resource value: 0x7F070455
+			public const int LinearLayoutCompat_android_baselineAligned = 2131166293;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 1;
@@ -10944,8 +11271,8 @@ namespace Amibopedia.Droid
 					16843137,
 					16842996};
 			
-			// aapt resource value: 0x7F060422
-			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131100706;
+			// aapt resource value: 0x7F070465
+			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131166309;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_Layout_android_layout_height = 1;
@@ -10966,8 +11293,8 @@ namespace Amibopedia.Droid
 					16843436,
 					16843437};
 			
-			// aapt resource value: 0x7F060427
-			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131100711;
+			// aapt resource value: 0x7F070470
+			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131166320;
 			
 			// aapt resource value: 0x1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
@@ -10990,8 +11317,8 @@ namespace Amibopedia.Droid
 					2130968944,
 					2130968945};
 			
-			// aapt resource value: 0x7F060430
-			public const int MaterialButton_android_insetBottom = 2131100720;
+			// aapt resource value: 0x7F070473
+			public const int MaterialButton_android_insetBottom = 2131166323;
 			
 			// aapt resource value: 0x1
 			public const int MaterialButton_android_insetLeft = 1;
@@ -11042,8 +11369,8 @@ namespace Amibopedia.Droid
 					2130968944,
 					2130968945};
 			
-			// aapt resource value: 0x7F060447
-			public const int MaterialCardView_strokeColor = 2131100743;
+			// aapt resource value: 0x7F070490
+			public const int MaterialCardView_strokeColor = 2131166352;
 			
 			// aapt resource value: 0x1
 			public const int MaterialCardView_strokeWidth = 1;
@@ -11082,8 +11409,8 @@ namespace Amibopedia.Droid
 					2130969004,
 					2130969008};
 			
-			// aapt resource value: 0x7F060450
-			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 2131100752;
+			// aapt resource value: 0x7F070493
+			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 2131166355;
 			
 			// aapt resource value: 0x1
 			public const int MaterialComponentsTheme_bottomSheetStyle = 1;
@@ -11184,8 +11511,8 @@ namespace Amibopedia.Droid
 					2130968691,
 					2130968752};
 			
-			// aapt resource value: 0x7F060754
-			public const int MediaRouteButton_android_minHeight = 2131101524;
+			// aapt resource value: 0x7F070797
+			public const int MediaRouteButton_android_minHeight = 2131167127;
 			
 			// aapt resource value: 0x1
 			public const int MediaRouteButton_android_minWidth = 1;
@@ -11204,8 +11531,8 @@ namespace Amibopedia.Droid
 					16843231,
 					16843156};
 			
-			// aapt resource value: 0x7F060483
-			public const int MenuGroup_android_checkableBehavior = 2131100803;
+			// aapt resource value: 0x7F070526
+			public const int MenuGroup_android_checkableBehavior = 2131166502;
 			
 			// aapt resource value: 0x1
 			public const int MenuGroup_android_enabled = 1;
@@ -11247,8 +11574,8 @@ namespace Amibopedia.Droid
 					2130968920,
 					2130969036};
 			
-			// aapt resource value: 0x7F060490
-			public const int MenuItem_actionLayout = 2131100816;
+			// aapt resource value: 0x7F070533
+			public const int MenuItem_actionLayout = 2131166515;
 			
 			// aapt resource value: 0x1
 			public const int MenuItem_actionProviderClass = 1;
@@ -11327,8 +11654,8 @@ namespace Amibopedia.Droid
 					2130968899,
 					2130968946};
 			
-			// aapt resource value: 0x7F060514
-			public const int MenuView_android_headerBackground = 2131100948;
+			// aapt resource value: 0x7F070557
+			public const int MenuView_android_headerBackground = 2131166551;
 			
 			// aapt resource value: 0x1
 			public const int MenuView_android_horizontalDivider = 1;
@@ -11368,8 +11695,8 @@ namespace Amibopedia.Droid
 					2130968838,
 					2130968876};
 			
-			// aapt resource value: 0x7F060524
-			public const int NavigationView_android_background = 2131100964;
+			// aapt resource value: 0x7F070567
+			public const int NavigationView_android_background = 2131166567;
 			
 			// aapt resource value: 0x1
 			public const int NavigationView_android_fitsSystemWindows = 1;
@@ -11412,11 +11739,11 @@ namespace Amibopedia.Droid
 			public static int[] PopupWindowBackgroundState = new int[] {
 					2130968937};
 			
-			// aapt resource value: 0x7F060541
-			public const int PopupWindowBackgroundState_state_above_anchor = 2131100993;
+			// aapt resource value: 0x7F070584
+			public const int PopupWindowBackgroundState_state_above_anchor = 2131166596;
 			
-			// aapt resource value: 0x7F060537
-			public const int PopupWindow_android_popupAnimationStyle = 2131100983;
+			// aapt resource value: 0x7F070580
+			public const int PopupWindow_android_popupAnimationStyle = 2131166592;
 			
 			// aapt resource value: 0x1
 			public const int PopupWindow_android_popupBackground = 1;
@@ -11428,8 +11755,8 @@ namespace Amibopedia.Droid
 					2130968884,
 					2130968887};
 			
-			// aapt resource value: 0x7F060543
-			public const int RecycleListView_paddingBottomNoButtons = 2131100995;
+			// aapt resource value: 0x7F070586
+			public const int RecycleListView_paddingBottomNoButtons = 2131166598;
 			
 			// aapt resource value: 0x1
 			public const int RecycleListView_paddingTopNoTitle = 1;
@@ -11447,8 +11774,8 @@ namespace Amibopedia.Droid
 					2130968930,
 					2130968936};
 			
-			// aapt resource value: 0x7F060546
-			public const int RecyclerView_android_descendantFocusability = 2131100998;
+			// aapt resource value: 0x7F070589
+			public const int RecyclerView_android_descendantFocusability = 2131166601;
 			
 			// aapt resource value: 0x1
 			public const int RecyclerView_android_orientation = 1;
@@ -11483,14 +11810,14 @@ namespace Amibopedia.Droid
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130968825};
 			
-			// aapt resource value: 0x7F060558
-			public const int ScrimInsetsFrameLayout_insetForeground = 2131101016;
+			// aapt resource value: 0x7F070601
+			public const int ScrimInsetsFrameLayout_insetForeground = 2131166721;
 			
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
 					2130968635};
 			
-			// aapt resource value: 0x7F060560
-			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131101024;
+			// aapt resource value: 0x7F070603
+			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131166723;
 			
 			public static int[] SearchView = new int[] {
 					16842970,
@@ -11511,8 +11838,8 @@ namespace Amibopedia.Droid
 					2130968952,
 					2130969043};
 			
-			// aapt resource value: 0x7F060562
-			public const int SearchView_android_focusable = 2131101026;
+			// aapt resource value: 0x7F070605
+			public const int SearchView_android_focusable = 2131166725;
 			
 			// aapt resource value: 0x1
 			public const int SearchView_android_imeOptions = 1;
@@ -11562,6 +11889,176 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x16
 			public const int SearchView_voiceIcon = 22;
 			
+			public static int[] SfAutoComplete = new int[] {
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0};
+			
+			// aapt resource value: 0x7F070006
+			public const int SfAutoComplete_autocompleteBorderColor = 2131165190;
+			
+			// aapt resource value: 0x7F070027
+			public const int SfAutoComplete_autocompleteClearButtonColor = 2131165223;
+			
+			// aapt resource value: 0x7F070015
+			public const int SfAutoComplete_autocompleteDisplayMemberPath = 2131165205;
+			
+			// aapt resource value: 0x7F070020
+			public const int SfAutoComplete_autocompleteDropDownBackgroundColor = 2131165216;
+			
+			// aapt resource value: 0x7F070036
+			public const int SfAutoComplete_autocompleteDropDownCornerRadius = 2131165238;
+			
+			// aapt resource value: 0x7F070038
+			public const int SfAutoComplete_autocompleteDropDownFooterViewHeight = 2131165240;
+			
+			// aapt resource value: 0x7F070037
+			public const int SfAutoComplete_autocompleteDropDownHeaderViewHeight = 2131165239;
+			
+			// aapt resource value: 0x7F070035
+			public const int SfAutoComplete_autocompleteDropDownItemHeight = 2131165237;
+			
+			// aapt resource value: 0x7F070010
+			public const int SfAutoComplete_autocompleteDropDownOpen = 2131165200;
+			
+			// aapt resource value: 0x7F070021
+			public const int SfAutoComplete_autocompleteDropDownTextColor = 2131165217;
+			
+			// aapt resource value: 0x7F070023
+			public const int SfAutoComplete_autocompleteDropDownTextSize = 2131165219;
+			
+			// aapt resource value: 0x7F070016
+			public const int SfAutoComplete_autocompleteEnableSelectionIndicator = 2131165206;
+			
+			// aapt resource value: 0x7F070033
+			public const int SfAutoComplete_autocompleteHighlightedTextColor = 2131165235;
+			
+			// aapt resource value: 0x7F070028
+			public const int SfAutoComplete_autocompleteIgnoreDiacritic = 2131165224;
+			
+			// aapt resource value: 0x7F070024
+			public const int SfAutoComplete_autocompleteImageMemberPath = 2131165220;
+			
+			// aapt resource value: 0x7F070017
+			public const int SfAutoComplete_autocompleteIndicatorText = 2131165207;
+			
+			// aapt resource value: 0x7F070018
+			public const int SfAutoComplete_autocompleteIndicatorTextColor = 2131165208;
+			
+			// aapt resource value: 0x7F070034
+			public const int SfAutoComplete_autocompleteIndicatorTextSize = 2131165236;
+			
+			// aapt resource value: 0x7F070029
+			public const int SfAutoComplete_autocompleteIsFocused = 2131165225;
+			
+			// aapt resource value: 0x7F070032
+			public const int SfAutoComplete_autocompleteIsSelectedItemsVisibleInDropDown = 2131165234;
+			
+			// aapt resource value: 0x7F070030
+			public const int SfAutoComplete_autocompleteLoadMoreText = 2131165232;
+			
+			// aapt resource value: 0x7F070022
+			public const int SfAutoComplete_autocompleteMaximumDropDownHeight = 2131165218;
+			
+			// aapt resource value: 0x7F070011
+			public const int SfAutoComplete_autocompleteMaximumSuggestion = 2131165201;
+			
+			// aapt resource value: 0x7F070019
+			public const int SfAutoComplete_autocompleteMinimumPrefixCharacters = 2131165209;
+			
+			// aapt resource value: 0x7F070043
+			public const int SfAutoComplete_autocompleteMode = 2131165251;
+			
+			// aapt resource value: 0x7F070042
+			public const int SfAutoComplete_autocompleteMultiSelectMode = 2131165250;
+			
+			// aapt resource value: 0x7F070031
+			public const int SfAutoComplete_autocompleteNoResultsFoundText = 2131165233;
+			
+			// aapt resource value: 0x7F070014
+			public const int SfAutoComplete_autocompletePopUpDelay = 2131165204;
+			
+			// aapt resource value: 0x7F070012
+			public const int SfAutoComplete_autocompleteSelectedIndex = 2131165202;
+			
+			// aapt resource value: 0x7F070002
+			public const int SfAutoComplete_autocompleteShowBorder = 2131165186;
+			
+			// aapt resource value: 0x7F070003
+			public const int SfAutoComplete_autocompleteShowClearButton = 2131165187;
+			
+			// aapt resource value: 0x7F070026
+			public const int SfAutoComplete_autocompleteShowDropDownFooterView = 2131165222;
+			
+			// aapt resource value: 0x7F070025
+			public const int SfAutoComplete_autocompleteShowDropDownHeaderView = 2131165221;
+			
+			// aapt resource value: 0x7F070013
+			public const int SfAutoComplete_autocompleteShowSuggestionsOnFocus = 2131165203;
+			
+			// aapt resource value: 0x7F070040
+			public const int SfAutoComplete_autocompleteSuggestionBoxPlacement = 2131165248;
+			
+			// aapt resource value: 0x7F070039
+			public const int SfAutoComplete_autocompleteSuggestionMode = 2131165241;
+			
+			// aapt resource value: 0x7F070008
+			public const int SfAutoComplete_autocompleteText = 2131165192;
+			
+			// aapt resource value: 0x7F070005
+			public const int SfAutoComplete_autocompleteTextColor = 2131165189;
+			
+			// aapt resource value: 0x7F070009
+			public const int SfAutoComplete_autocompleteTextSize = 2131165193;
+			
+			// aapt resource value: 0x7F070041
+			public const int SfAutoComplete_autocompleteTokensWrapMode = 2131165249;
+			
+			// aapt resource value: 0x7F070007
+			public const int SfAutoComplete_autocompleteWatermark = 2131165191;
+			
+			// aapt resource value: 0x7F070004
+			public const int SfAutoComplete_autocompleteWatermarkColor = 2131165188;
+			
 			public static int[] Snackbar = new int[] {
 					2130968928,
 					2130968929};
@@ -11571,8 +12068,8 @@ namespace Amibopedia.Droid
 					2130968758,
 					2130968872};
 			
-			// aapt resource value: 0x7F060583
-			public const int SnackbarLayout_android_maxWidth = 2131101059;
+			// aapt resource value: 0x7F070626
+			public const int SnackbarLayout_android_maxWidth = 2131166758;
 			
 			// aapt resource value: 0x1
 			public const int SnackbarLayout_elevation = 1;
@@ -11580,8 +12077,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x2
 			public const int SnackbarLayout_maxActionInlineWidth = 2;
 			
-			// aapt resource value: 0x7F060580
-			public const int Snackbar_snackbarButtonStyle = 2131101056;
+			// aapt resource value: 0x7F070623
+			public const int Snackbar_snackbarButtonStyle = 2131166755;
 			
 			// aapt resource value: 0x1
 			public const int Snackbar_snackbarStyle = 1;
@@ -11593,8 +12090,8 @@ namespace Amibopedia.Droid
 					16843131,
 					2130968897};
 			
-			// aapt resource value: 0x7F060587
-			public const int Spinner_android_dropDownWidth = 2131101063;
+			// aapt resource value: 0x7F070630
+			public const int Spinner_android_dropDownWidth = 2131166768;
 			
 			// aapt resource value: 0x1
 			public const int Spinner_android_entries = 1;
@@ -11619,11 +12116,11 @@ namespace Amibopedia.Droid
 			public static int[] StateListDrawableItem = new int[] {
 					16843161};
 			
-			// aapt resource value: 0x7F060752
-			public const int StateListDrawableItem_android_drawable = 2131101522;
+			// aapt resource value: 0x7F070795
+			public const int StateListDrawableItem_android_drawable = 2131167125;
 			
-			// aapt resource value: 0x7F060745
-			public const int StateListDrawable_android_constantSize = 2131101509;
+			// aapt resource value: 0x7F070788
+			public const int StateListDrawable_android_constantSize = 2131167112;
 			
 			// aapt resource value: 0x1
 			public const int StateListDrawable_android_dither = 1;
@@ -11656,8 +12153,8 @@ namespace Amibopedia.Droid
 					2130969038,
 					2130969039};
 			
-			// aapt resource value: 0x7F060593
-			public const int SwitchCompat_android_textOff = 2131101075;
+			// aapt resource value: 0x7F070636
+			public const int SwitchCompat_android_textOff = 2131166774;
 			
 			// aapt resource value: 0x1
 			public const int SwitchCompat_android_textOn = 1;
@@ -11703,8 +12200,8 @@ namespace Amibopedia.Droid
 					16842994,
 					16843087};
 			
-			// aapt resource value: 0x7F060608
-			public const int TabItem_android_icon = 2131101192;
+			// aapt resource value: 0x7F070651
+			public const int TabItem_android_icon = 2131166801;
 			
 			// aapt resource value: 0x1
 			public const int TabItem_android_layout = 1;
@@ -11739,8 +12236,8 @@ namespace Amibopedia.Droid
 					2130968981,
 					2130968982};
 			
-			// aapt resource value: 0x7F060612
-			public const int TabLayout_tabBackground = 2131101202;
+			// aapt resource value: 0x7F070655
+			public const int TabLayout_tabBackground = 2131166805;
 			
 			// aapt resource value: 0x1
 			public const int TabLayout_tabContentStart = 1;
@@ -11829,8 +12326,8 @@ namespace Amibopedia.Droid
 					2130968786,
 					2130968983};
 			
-			// aapt resource value: 0x7F060638
-			public const int TextAppearance_android_fontFamily = 2131101240;
+			// aapt resource value: 0x7F070681
+			public const int TextAppearance_android_fontFamily = 2131166849;
 			
 			// aapt resource value: 0x1
 			public const int TextAppearance_android_shadowColor = 1;
@@ -11898,8 +12395,8 @@ namespace Amibopedia.Droid
 					2130968894,
 					2130968895};
 			
-			// aapt resource value: 0x7F060652
-			public const int TextInputLayout_android_hint = 2131101266;
+			// aapt resource value: 0x7F070695
+			public const int TextInputLayout_android_hint = 2131166869;
 			
 			// aapt resource value: 0x1
 			public const int TextInputLayout_android_textColorHint = 1;
@@ -11987,8 +12484,8 @@ namespace Amibopedia.Droid
 					2130968759,
 					2130968760};
 			
-			// aapt resource value: 0x7F060681
-			public const int ThemeEnforcement_android_textAppearance = 2131101313;
+			// aapt resource value: 0x7F070724
+			public const int ThemeEnforcement_android_textAppearance = 2131167012;
 			
 			// aapt resource value: 0x1
 			public const int ThemeEnforcement_enforceMaterialTheme = 1;
@@ -12027,8 +12524,8 @@ namespace Amibopedia.Droid
 					2130969028,
 					2130969029};
 			
-			// aapt resource value: 0x7F060685
-			public const int Toolbar_android_gravity = 2131101317;
+			// aapt resource value: 0x7F070728
+			public const int Toolbar_android_gravity = 2131167016;
 			
 			// aapt resource value: 0x1
 			public const int Toolbar_android_minHeight = 1;
@@ -12126,8 +12623,8 @@ namespace Amibopedia.Droid
 					2130968629,
 					2130968630};
 			
-			// aapt resource value: 0x7F060721
-			public const int ViewBackgroundHelper_android_background = 2131101473;
+			// aapt resource value: 0x7F070764
+			public const int ViewBackgroundHelper_android_background = 2131167076;
 			
 			// aapt resource value: 0x1
 			public const int ViewBackgroundHelper_backgroundTint = 1;
@@ -12140,8 +12637,8 @@ namespace Amibopedia.Droid
 					16842995,
 					16842994};
 			
-			// aapt resource value: 0x7F060725
-			public const int ViewStubCompat_android_id = 2131101477;
+			// aapt resource value: 0x7F070768
+			public const int ViewStubCompat_android_id = 2131167080;
 			
 			// aapt resource value: 0x1
 			public const int ViewStubCompat_android_inflatedId = 1;
@@ -12149,8 +12646,8 @@ namespace Amibopedia.Droid
 			// aapt resource value: 0x2
 			public const int ViewStubCompat_android_layout = 2;
 			
-			// aapt resource value: 0x7F060715
-			public const int View_android_focusable = 2131101461;
+			// aapt resource value: 0x7F070758
+			public const int View_android_focusable = 2131167064;
 			
 			// aapt resource value: 0x1
 			public const int View_android_theme = 1;
@@ -12177,8 +12674,8 @@ namespace Amibopedia.Droid
 		public partial class Xml
 		{
 			
-			// aapt resource value: 0x7F070002
-			public const int xamarin_essentials_fileprovider_file_paths = 2131165186;
+			// aapt resource value: 0x7F100002
+			public const int xamarin_essentials_fileprovider_file_paths = 2131755010;
 			
 			static Xml()
 			{

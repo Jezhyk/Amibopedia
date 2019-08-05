@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "617279e632975c9fdcbed1e7fbb1d19708f88b34"
+    "signature": "6450d6804048720ee290d0e4f0394b9cf7a1a22e"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,8 +11,10 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.2",
+          "Syncfusion.Xamarin.SfAutoComplete": "17.2.0.39",
           "Xamarin.Essentials": "1.3.0-pre",
-          "Xamarin.Forms": "4.2.0.618605-pre2"
+          "Xamarin.Forms": "4.2.0.618605-pre2",
+          "Xamarin.Forms.BehaviorsPack": "2.1.1"
         },
         "runtime": {
           "Amibopedia.dll": {}
@@ -29,6 +31,37 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "12.0.0.0",
             "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Syncfusion.Licensing/17.2.0.39": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "17.2.0.39",
+            "fileVersion": "17.2.0.39"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Core/17.2.0.39": {
+        "dependencies": {
+          "Syncfusion.Licensing": "17.2.0.39"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Core.XForms.dll": {
+            "assemblyVersion": "17.2451.0.39",
+            "fileVersion": "17.2451.0.39"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfAutoComplete/17.2.0.39": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.2.0.39",
+          "Xamarin.Forms": "4.2.0.618605-pre2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfAutoComplete.XForms.dll": {
+            "assemblyVersion": "17.2451.0.39",
+            "fileVersion": "17.2451.0.39"
           }
         }
       },
@@ -66,6 +99,17 @@
             "fileVersion": "4.2.0.10"
           }
         }
+      },
+      "Xamarin.Forms.BehaviorsPack/2.1.1": {
+        "dependencies": {
+          "Xamarin.Forms": "4.2.0.618605-pre2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.BehaviorsPack.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
       }
     }
   },
@@ -96,6 +140,27 @@
       "path": "newtonsoft.json/12.0.2",
       "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
     },
+    "Syncfusion.Licensing/17.2.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xr7/eHyoic0kLHTVJhTzxfCyFTfvCK8FCL2jdFwKtvoLxsd5DIECB8nLzphdiM7eowiOdkr/4vDTUtqprdeEqA==",
+      "path": "syncfusion.licensing/17.2.0.39",
+      "hashPath": "syncfusion.licensing.17.2.0.39.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Core/17.2.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qj7BGYaOAhhEDq7KHBkqwGojAkxk67lsCjvsu+v+GcqyD8tHQS8Z4sgMWsojJxA2kh+NBz0DiocnsXPOdHPyFg==",
+      "path": "syncfusion.xamarin.core/17.2.0.39",
+      "hashPath": "syncfusion.xamarin.core.17.2.0.39.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfAutoComplete/17.2.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x2zRjKtdnoqErCSoZDAdQOwMk1F78VI8RTo0RBPZ9eRSWbspplJpBrxdIXIjZbQWH4rTGKCxPgTFLphzL+wLFQ==",
+      "path": "syncfusion.xamarin.sfautocomplete/17.2.0.39",
+      "hashPath": "syncfusion.xamarin.sfautocomplete.17.2.0.39.nupkg.sha512"
+    },
     "System.Numerics.Vectors/4.5.0": {
       "type": "package",
       "serviceable": true,
@@ -116,6 +181,13 @@
       "sha512": "sha512-/aJmHYW2djou6TXOQtceNwLQ5Yoqs9tEt4wuyg2LllwIEM11yy15gzifaaMS/JMnhBRAm6m5QKGGJ8lXwkIKXw==",
       "path": "xamarin.forms/4.2.0.618605-pre2",
       "hashPath": "xamarin.forms.4.2.0.618605-pre2.nupkg.sha512"
+    },
+    "Xamarin.Forms.BehaviorsPack/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ti4LYl2psl5wvw7Okh50l2eGQyuRxK0PUtHi0iQYejHT4WawZaQ00yf5doUUuUxNm3NsvooyIhwmn+PcuXCotg==",
+      "path": "xamarin.forms.behaviorspack/2.1.1",
+      "hashPath": "xamarin.forms.behaviorspack.2.1.1.nupkg.sha512"
     }
   }
 }
